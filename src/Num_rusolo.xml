@@ -12,6 +12,10 @@
 <e><lg><l pos="Num">пятьсот</l></lg><mg><tg><t>viizisadua (viijensuan, viittysadua; viiziisadoi)</t></tg></mg></e>
 <e><lg><l pos="Num">тысяча</l></lg><mg><tg xml:lang="olo"><t>tuhat</t></tg><xg><x>Карелия – страна тысяч озёр</x><xt>Karjal on tuhanzien järvien mua</xt></xg><xg><x>тысячами</x><xt>tuhanzittain</xt></xg></mg></e>
 <e><lg><l pos="Det">восьмой</l></lg><mg><tg xml:lang="olo"><t>kaheksas</t></tg><xg><x>учиться в восьмом классе</x><xt>opastuo kaheksandes kluasas</xt></xg></mg></e>
+<e><lg><l pos="Num">двести</l></lg><mg><tg xml:lang="olo"><t>kaksisadua (kahtensuan, kahtusadua; kaksiisadoi)</t></tg><xg><x>в двухстах метрах</x><xt>kahtensuan metrin piäs</xt></xg></mg></e>
+<e><lg><l pos="Num">шесть</l></lg><mg><tg xml:lang="olo"><t>kuuzi</t></tg><xg><x>шесть человек</x><xt>kuuzi hengie</xt></xg></mg></e>
+<e><lg><l pos="Num">шестьдесят</l></lg><mg><tg><t>kuuzikymmen (kuvvenkymmenen, kuuttukymmendy; kuuziikymmenii)</t></tg></mg></e>
+<e><lg><l pos="Num">шестьсот</l></lg><mg><tg><t>kuuzisadua (kuvvensuan, kuuttusadua; kuuziisadoi)</t></tg></mg></e>
 
 
 </r>

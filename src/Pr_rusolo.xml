@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="rusolo" xml:lang="rus">
 <e><lg><l pos="Pr">без</l></lg><mg><defNative>(<b>безо</b>)</defNative><tg><t>ilmai</t><t>vajai</t></tg><xg><x>без тебя знаю</x><xt>ilmai sinuu tiijän</xt><xt>sinuttah tiijän</xt></xg><xg><x>остаться без отца</x><xt>jiähä tuatattah</xt></xg><xg><x>работать без отдыха</x><xt>ruadua huogavumattah</xt></xg><xg><x>взять без разрешения</x><xt>ottua kyzymättäh</xt></xg><xg><x>времени без десяти минут два</x><xt>aigua on kymmendy minuuttua vajai kaksi</xt></xg><xg><x>сидеть без дела</x><xt>istuo joute</xt></xg><xg><x>без всяких</x><xt>ilmai kaikkie</xt></xg><xg><x>и без того</x><xt>muitegi</xt></xg></mg></e>
+<e><lg><l pos="Pr">вроде</l></lg><mg><defNative>(<i>предлог</i>)</defNative><tg><t ContlexType="N_LIYGILÄINE">jyttyine</t><t>jytys</t></tg><xg><x>вроде тебя</x><xt>sinun jyttyine (jytys)</xt></xg><xg><x>он вроде тебя</x><xt>häi on sinun jytys (häi on kui sinä)</xt></xg></mg></e>
 
 
 </r>
