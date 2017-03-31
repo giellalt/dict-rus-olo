@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusolo" xml:lang="rus">
+<e><lg><l pos="Num">два</l></lg><mg><tg xml:lang="olo"><t>kaksi</t></tg><xg><x>две пары рукавиц</x><xt>kahtet alazet</xt></xg><xg><x>в классе нет двух человек</x><xt>kluasas ei ole kahtu hengie</xt></xg><xg><x>в два счёта</x><xt>kerral</xt></xg><xg><x>в двух шагах</x><xt>askelen peräs</xt></xg></mg></e>
+<e><lg><l pos="Num">двадцать</l></lg><mg><tg xml:lang="olo"><t>kaksikymmen</t></tg><xg><x>ему больше двадцати лет</x><xt>hänele on enämbi kahtukymmendy vuottu</xt></xg></mg></e>
+<e><lg><l pos="Num">три</l></lg><mg><tg xml:lang="olo"><t>kolme</t></tg><xg><x>разделить на три</x><xt>jagua kolmekse</xt></xg></mg></e>
+<e><lg><l pos="Num">четыре</l></lg><mg><tg xml:lang="olo"><t>nelli</t></tg><xg><x>четыре рубля</x><xt>nelli rublʼua</xt></xg><xg><x>четыре человека</x><xt>nelli hengie</xt></xg></mg></e>
+<e><lg><l pos="Num">семь</l></lg><mg><tg xml:lang="olo"><t>seiččei</t></tg><xg><x>сыну семь лет</x><xt>poijal on seiččei vuottu</xt></xg></mg></e>
+<e><lg><l pos="Num">семьдесят</l></lg><mg><tg xml:lang="olo"><t>seiččeikymmen</t></tg><xg><x>деду исполнилось семьдесят лет</x><xt>diedʼoi täytti seiččeikymmen vuottu</xt></xg></mg></e>
+<e><lg><l pos="Num">семьсот</l></lg><mg><tg><t>seiččeisadua</t></tg></mg></e>
+<e><lg><l pos="Num">пять</l></lg><mg><tg><t>viizi</t></tg></mg></e>
+<e><lg><l pos="Num">пятьдесят</l></lg><mg><tg><t>viizikymmen (viijenkymmenen, viittykymmendy; viiziikymmenii)</t></tg></mg></e>
+<e><lg><l pos="Num">пятьсот</l></lg><mg><tg><t>viizisadua (viijensuan, viittysadua; viiziisadoi)</t></tg></mg></e>
+<e><lg><l pos="Num">тысяча</l></lg><mg><tg xml:lang="olo"><t>tuhat</t></tg><xg><x>Карелия – страна тысяч озёр</x><xt>Karjal on tuhanzien järvien mua</xt></xg><xg><x>тысячами</x><xt>tuhanzittain</xt></xg></mg></e>
+<e><lg><l pos="Det">восьмой</l></lg><mg><tg xml:lang="olo"><t>kaheksas</t></tg><xg><x>учиться в восьмом классе</x><xt>opastuo kaheksandes kluasas</xt></xg></mg></e>
+
+
+</r>
