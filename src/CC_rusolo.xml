@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="rusolo" xml:lang="rus">
+<e><lg><l pos="CC">а</l></lg><mg><defNative>(<i>противопоставительный</i>)</defNative><tg><t>a</t></tg><xg><x>я пошёл на работу, а он остался дома</x><xt>minä lähtin ruadoh, a häi jäi kodih</xt></xg><xg><x>это сделал он, а не ты</x><xt>sen luadi häi, a et sinä</xt></xg></mg><mg><defNative>(<i>присоединительный</i>)</defNative><tg><t>a</t></tg><xg><x>а кто же виноват, если не он</x><xt>a kenbo on viäry, ku ei häi ◊</xt></xg><xg><x>а не то...</x><xt>eiga</xt></xg><xg><x>иди ешь, а то еда остынет</x><xt>tule syö, eiga syömizet vilustutah</xt></xg><xg><x>никто другой, а именно он</x><xt>niken muu, a vai häi</xt></xg><xg><x>а также</x><xt>sežo</xt></xg><xg><x>а также они</x><xt>hyö sežo</xt></xg></mg></e>
+<e><lg><l pos="CC">аж</l></lg><mg><defNative>(<i>союз</i>)</defNative><tg><t>ga kai</t></tg><xg><x>так светло, аж глаза слепит</x><xt>on muga valgei, ga kai silmät ottau</xt></xg></mg></e>
+
+</r>

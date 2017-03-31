@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r>
-<e><lg><l pos="CC">а</l></lg><mg><defNative>(<i>противопоставительный</i>)</defNative><tg><t>a</t></tg><xg><x>я пошёл на работу, а он остался дома</x><xt>minä lähtin ruadoh, a häi jäi kodih</xt></xg><xg><x>это сделал он, а не ты</x><xt>sen luadi häi, a et sinä</xt></xg></mg><mg><defNative>(<i>присоединительный</i>)</defNative><tg><t>a</t></tg><xg><x>а кто же виноват, если не он</x><xt>a kenbo on viäry, ku ei häi ◊</xt></xg><xg><x>а не то...</x><xt>eiga</xt></xg><xg><x>иди ешь, а то еда остынет</x><xt>tule syö, eiga syömizet vilustutah</xt></xg><xg><x>никто другой, а именно он</x><xt>niken muu, a vai häi</xt></xg><xg><x>а также</x><xt>sežo</xt></xg><xg><x>а также они</x><xt>hyö sežo</xt></xg></mg></e>
 <e><lg><l>авось</l></lg><mg><tg><t>toinah</t></tg><xg><x>авось не опоздаем</x><xt>toinah emmo myöhästy</xt></xg><xg><x>пойду на рыбалку, авось рыбки поймаю</x><xt>lähten ongele, toinah kalastu suan</xt></xg></mg></e>
-<e><lg><l>аж</l></lg><mg><defNative>(<i>частица</i>)</defNative><tg><t>kai</t></tg><xg><x>он аж подскочил</x><xt>häi kai hypähtih</xt></xg></mg><mg><defNative>(<i>союз</i>)</defNative><tg><t>ga kai</t></tg><xg><x>так светло, аж глаза слепит</x><xt>on muga valgei, ga kai silmät ottau</xt></xg></mg></e>
-<e><lg><l>Америка</l></lg><mg><tg><t>Amierik|ku (-an, -kua)</t></tg></mg></e>
-<e><lg><l>ау</l></lg><mg><defNative>(<i>междометие</i>)</defNative><tg><t>ho-lʼo-lʼoo!</t></tg></mg></e>
-<e><lg><l>Африка</l></lg><mg><tg><t>Afriek|ku (-an, -kua)</t></tg></mg></e>
 <e><lg><l>баклуши</l></lg><mg><tg><t>:</t></tg><xg><x>бить баклуши</x><xt>laškistellakseh</xt></xg></mg></e>
-<e><lg><l>без</l></lg><mg><defNative>(<b>безо</b>)</defNative><tg><t>ilmai</t><t>vajai</t></tg><xg><x>без тебя знаю</x><xt>ilmai sinuu tiijän (sinuttah tiijän)</xt></xg><xg><x>остаться без отца</x><xt>jiähä tuatattah</xt></xg><xg><x>работать без отдыха</x><xt>ruadua huogavumattah</xt></xg><xg><x>взять без разрешения</x><xt>ottua kyzymättäh</xt></xg><xg><x>времени без десяти минут два</x><xt>aigua on kymmendy minuuttua vajai kaksi</xt></xg><xg><x>сидеть без дела</x><xt>istuo joute ◊</xt></xg><xg><x>без всяких</x><xt>ilmai kaikkie</xt></xg><xg><x>и без того</x><xt>muitegi</xt></xg></mg></e>
 <e><lg><l>бис!</l></lg><mg><tg><t>uvvessah! vie! bis!</t></tg></mg></e>
 <e><lg><l>блестяще</l></lg><mg><tg><t>ylen hyvin</t></tg><xg><x>он блестяще сдал все экзамены</x><xt>häi ylen hyvin piäzi läbi kaikis tutkindois</xt></xg></mg></e>
 <e><lg><l>ближе</l></lg><mg><tg><t>lähembä</t></tg><xg><x>подойти ближе</x><xt>mennä lähembä</xt></xg></mg></e>

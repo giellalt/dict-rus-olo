@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="rusolo" xml:lang="rus">
+<e><lg><l pos="N" type="Prop">Америка</l></lg><mg><tg><t>Amierikku</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Африка</l></lg><mg><tg><t>Afriekku</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Австралия</l></lg><mg><tg><t Contlex="PROP_KONDII">Avstrualii</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Австрия</l></lg><mg><tg><t Contlex="PROP_KONDII">Avstrii</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Азербайджан</l></lg><mg><tg><t Contlex="PROP_MUARJU">Azerbaidžuanu</t></tg></mg></e>
