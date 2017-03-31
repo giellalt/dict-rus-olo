@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r xml:lang="rus">
+<r id="rusolo" xml:lang="rus">
   <e>
     <lg>
       <l pos="V">авансировать</l>
@@ -1058,7 +1058,7 @@
       <xg>
         <x>бегать взад-вперёд</x>
 
-        <xt>joksendella ielleh-järilleh</xt>
+        <xt>juoksendella ielleh-järilleh</xt>
  </xg>
 
       <xg>
@@ -87875,7 +87875,7 @@
       <xg>
         <x>лошадь поскакала</x>
 
-        <xt>hebo lähti joksemah ruagieh</xt>
+        <xt>hebo lähti juoksemah ruagieh</xt>
  </xg>
 </mg>
 </e>
@@ -125386,7 +125386,7 @@
 
         <xt>hyppie yhtel jallal</xt>
 
-        <xt>[skoččie]</xt>
+        <xt>skoččie</xt>
    </xg>
  </mg>
 
@@ -125400,7 +125400,7 @@
       <xg>
         <x>лошадь скачет</x>
 
-        <xt>hebo joksou ruagieh</xt>
+        <xt>hebo juoksou ruagieh</xt>
    </xg>
  </mg>
 </e>
