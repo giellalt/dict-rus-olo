@@ -50,6 +50,8 @@
 <e><lg><l pos="N" type="Prop">Швеция</l></lg><mg><tg><t Contlex="PROP_PAPPI">Ruočči</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Эстония</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_KONDII">Estounii</t></tg></mg></e>
 <e><lg><l pos="N" type="Prop">Япония</l></lg><mg><tg><t Contlex="PROP_KONDII">Japounii</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Китай</l></lg><mg><tg><t>Kitai</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Господь</l></lg><mg><tg><t>Hospodi</t></tg></mg></e>
 
 
 </r>

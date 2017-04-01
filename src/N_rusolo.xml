@@ -269,7 +269,6 @@
 <e><lg><l pos="N">африканка</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_KARJALAINE">afriekkalaine</t><t ContlexType="N_MUARJU">afrikansu</t></tg></mg></e>
 <e><lg><l pos="N">аффект</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_ALUS">mielenkiihahtus</t><t ContlexType="N_MUARJU">affektu</t></tg></mg></e>
 <e><lg><l pos="N">аффриката</l></lg><mg><defNative>(<i>линг.</i>)</defNative><tg><t ContlexType="N_MUARJU">umbiragokonsonantu</t><t ContlexType="N_AKKU">affrikuattu</t></tg></mg></e>
-<e><lg><l pos="N">ах</l></lg><mg><defNative>(<i>межд.</i>)</defNative><tg><t>ah</t><t>voi</t></tg><xg><x>ах какой красивый цветок!</x><xt>ah (voi) mittuine čoma on kukkaine!</xt></xg></mg></e>
 <e><lg><l pos="N">аханье</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_MUARJU">ahkandu</t></tg><tg xml:lang="olo"><t ContlexType="N_MUARJU">ohkandu</t></tg><xg><x>аханьем не поможешь</x><xt>ahkandal (ohkandal) et auta</xt></xg></mg></e>
 <e><lg><l pos="N">ахинея</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_VÄHYS">perättömys</t></tg><tg xml:lang="olo"><t ContlexType="N_HERY">hölynpöly</t></tg><xg><x>нести ахинею</x><xt>paista perättömytty (paginois ei ole ni hölynpölyy)</xt></xg></mg></e>
 <e><lg><l pos="N">аэродром</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_AKKU">lendohlähtöpaikku</t><t ContlexType="N_MUARJU">aerodroumu</t></tg></mg></e>
@@ -2430,8 +2429,8 @@
 <e><lg><l pos="N">карась</l></lg><mg><tg><t ContlexType="N_PAPPI">karassi</t></tg></mg></e>
 <e><lg><l pos="N">карантин</l></lg><mg><tg><t ContlexType="N_MUARJU">karantiinu</t></tg></mg></e>
 <e><lg><l pos="N">карапуз</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_LUGU">klakku</t><t ContlexType="N_AKKU">nʼapukku</t></tg></mg></e>
-<e><lg><l pos="N">караул</l></lg><mg><defNative>(<i>охрана</i>)</defNative><tg><t ContlexType="N_ALUS">vardoičus</t><t ContlexType="N_RUADO">vardoičusjoukko</t></tg></mg><mg><defNative>(<i>несение охраны</i>)</defNative><tg><t ContlexType="N_NAINE">vardoiččemine</t><t ContlexType="N_MUARJU">vardoičendu</t><t ContlexType="N_ALUS">vardoičus</t></tg><xg><x>нести караул</x><xt>olla vardoičukses (vardoija)</xt></xg></mg><mg><defNative>(<i>в знач. межд.</i>)</defNative><tg><t>karavuul!</t></tg><xg><x>караул! помогите!</x><xt>karavuul! autakkua!</xt></xg></mg></e>
-<e><lg><l pos="N">карбас</l></lg><mg><tg><t ContlexType="N_LUGU">karbassu</t></tg></mg></e>
+<e><lg><l pos="N">караул</l></lg><mg><defNative>(<i>охрана</i>)</defNative><tg><t ContlexType="N_ALUS">vardoičus</t><t ContlexType="N_RUADO">vardoičusjoukko</t></tg></mg><mg><defNative>(<i>несение охраны</i>)</defNative><tg><t ContlexType="N_NAINE">vardoiččemine</t><t ContlexType="N_MUARJU">vardoičendu</t><t ContlexType="N_ALUS">vardoičus</t></tg><xg><x>нести караул</x><xt>olla vardoičukses (vardoija)</xt></xg></mg></e>
+<e><lg><l pos="N">карбас</l></lg><mg><tg><t ContlexType="N_LUGU">karbassu</t></tg></mg></>
 <e><lg><l pos="N">карел</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_KARJALAINE">karjalaine</t></tg><xg><x>карелы</x><xt>karjalazet</xt></xg></mg></e>
 <e><lg><l pos="N">карелка</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_KARJALAINE">karjalaine</t></tg><xg><x>карелы</x><xt>karjalazet</xt></xg></mg></e>
 <e><lg><l pos="N">карикатура</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_OZA">nagrokuva</t></tg><tg xml:lang="olo"><t ContlexType="N_MUARJU">karikatuuru</t></tg><xg><x>рисовать карикатуры</x><xt>resuija nagrokuvii</xt></xg></mg></e>
@@ -7963,5 +7962,6 @@
 <e><lg><l pos="N">ящерица</l></lg><mg><tg><t ContlexType="N_MUARJU">šihiliusku</t></tg></mg></e>
 <e><lg><l pos="N">ящик</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_AKKU">juaššiekku</t></tg><xg><x>почтовый ящик</x><xt>poštujuaššiekku</xt></xg></mg></e>
 
+<e><lg><l pos="N">завтра</l></lg><mg><defNative>(<i>нескл. сущ.</i>)</defNative><tg><t>huomenekse</t></tg><xg><x>приготовить работу на завтра</x><xt>varustua ruado huomenekse</xt></xg></mg></e>
 
 </r>
