@@ -2430,7 +2430,7 @@
 <e><lg><l pos="N">карантин</l></lg><mg><tg><t ContlexType="N_MUARJU">karantiinu</t></tg></mg></e>
 <e><lg><l pos="N">карапуз</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_LUGU">klakku</t><t ContlexType="N_AKKU">nʼapukku</t></tg></mg></e>
 <e><lg><l pos="N">караул</l></lg><mg><defNative>(<i>охрана</i>)</defNative><tg><t ContlexType="N_ALUS">vardoičus</t><t ContlexType="N_RUADO">vardoičusjoukko</t></tg></mg><mg><defNative>(<i>несение охраны</i>)</defNative><tg><t ContlexType="N_NAINE">vardoiččemine</t><t ContlexType="N_MUARJU">vardoičendu</t><t ContlexType="N_ALUS">vardoičus</t></tg><xg><x>нести караул</x><xt>olla vardoičukses (vardoija)</xt></xg></mg></e>
-<e><lg><l pos="N">карбас</l></lg><mg><tg><t ContlexType="N_LUGU">karbassu</t></tg></mg></>
+<e><lg><l pos="N">карбас</l></lg><mg><tg><t ContlexType="N_LUGU">karbassu</t></tg></mg></e>
 <e><lg><l pos="N">карел</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_KARJALAINE">karjalaine</t></tg><xg><x>карелы</x><xt>karjalazet</xt></xg></mg></e>
 <e><lg><l pos="N">карелка</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_KARJALAINE">karjalaine</t></tg><xg><x>карелы</x><xt>karjalazet</xt></xg></mg></e>
 <e><lg><l pos="N">карикатура</l></lg><mg><tg xml:lang="olo"><t ContlexType="N_OZA">nagrokuva</t></tg><tg xml:lang="olo"><t ContlexType="N_MUARJU">karikatuuru</t></tg><xg><x>рисовать карикатуры</x><xt>resuija nagrokuvii</xt></xg></mg></e>
