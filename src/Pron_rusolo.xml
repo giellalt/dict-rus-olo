@@ -1,21 +1,580 @@
-<?xml version="1.0" encoding="utf-8"?>
-<r id="rusolo" xml:lang="rus">
-<e><lg><l pos="Pron">который</l></lg><mg><defNative>(<i>вопр. мест.</i>)</defNative><tg><t>kud|ai (-uan, -uadu; -ualoi)</t><t ContlexType="NMN_KARJALAINE">mittuine</t></tg><xg><x>который из вас ответит?</x><xt>kudaibo teis vastuau?</xt></xg><xg><x>которое сегодня число?</x><xt>mittuinebo tänäpäi on päivy?</xt></xg><xg><x>который час?</x><xt>äijygo on aigua?</xt></xg></mg><mg><defNative>(<i>относ. мест.</i>)</defNative><tg><t>kud|ai (-uan, -uadu; -ualoi)</t></tg><xg><x>человек, которого я знаю</x><xt>ristikanzu, kuduadu minä tiijän</xt></xg><xg><x>город, в котором я живу</x><xt>linnu, kuduas minä elän</xt></xg></mg></e>
-<e><lg><l pos="Pron">кто</l></lg><mg><defNative>(<i>вопрос. мест.</i>)</defNative><tg><t>ken</t><t>ket (kenen; kedä)</t></tg><xg><x>кто пришёл?</x><xt>kenbo tuli?</xt></xg><xg><x>кто ушёл?</x><xt>ketbo lähtiettih?</xt></xg><xg><x>кого нет дома?</x><xt>kedäbo ei ole kois?</xt></xg><xg><x>кому надо дать книгу?</x><xt>kellebo pidäy andua kniigu?</xt></xg><xg><x>кем ты хочешь стать?</x><xt>keneksebo sinä tahtot roita?</xt></xg><xg><x>о ком ты тоскуешь?</x><xt>kedäbo sinä atkaloičet (igävoičet)?</xt></xg></mg><mg><defNative>(<i>относ. мест.</i>)</defNative><tg><t>ken</t></tg><xg><x>каждый, кто знает стихотворение</x><xt>jogahine, ken tiedäy runon ◊</xt></xg><xg><x>кто бы ни был</x><xt>olgah kentahto</xt></xg><xg><x>кто куда</x><xt>ken kunne</xt></xg><xg><x>мало ли кто</x><xt>vähätöigo ken</xt></xg></mg></e>
-<e><lg><l pos="Pron">куда</l></lg><mg><defNative>(<i>вопрос. мест.</i>)</defNative><tg><t>kunne</t></tg><xg><x>куда ты пошёл?</x><xt>kunne sinä lähtit?</xt></xg><xg><x>куда ты идёшь?</x><xt>kunne olet menemäs?</xt></xg></mg><mg><defNative>(<i>относ. мест.</i>)</defNative><tg><t>kunne</t></tg><xg><x>не знаю, куда он уехал</x><xt>en tiijä, kunne häi ajoi</xt></xg></mg></e>
-<e><lg><l pos="Pron">один</l></lg><mg><defNative>(одна, одно)</defNative><tg><t></t></tg><i>колич. числ.</i> </mg><mg><n>1.</n> (<i>число, количество</i>) yksi (yhten, yhty; yksii); один ученик yksi opastui; одна книга yksi kniigu; одно окно yksi ikkun; один раз yhten kerran; </mg><mg><defNative><i>в знач. прил.</i> (<i>без других</i>)</defNative><tg><t>yksin</t><t>yksinäh</t></tg><xg><x>он пришёл один</x><xt>häi tuli yksin (yksinäh)</xt></xg></mg><mg><defNative><i>в знач. прил.</i> (<i>только, исключительно</i>)</defNative><tg><t>vai</t><t>vaiku</t></tg><xg><x>я зашёл на одну минуту</x><xt>minä tulin vai kodvazekse</xt></xg></mg><mg><defNative><i>в знач. прил.</i> (<i>тот же самый, одинаковый</i>)</defNative><tg><t ContlexType="NMN_KALA">sama</t><t ContlexType="NMN_KARJALAINE">samaine</t></tg><xg><x>я одного мнения с тобой</x><xt>olen samua mieldy sinunke</xt></xg><xg><x>говорить одно и то же</x><xt>paista yhty samua</xt></xg></mg><mg><defNative><i>в знач. мест.</i> (<i>какой-то, некий</i>)</defNative><tg><t ContlexType="NMN_EVAES">eräs</t><t>yksi (yhten, yhty; yksii)</t></tg><xg><x>один из многих</x><xt>eräs</xt></xg><xg><x>в один прекрасный день</x><xt>erähänny kaunehennu päivänny ◊</xt></xg><xg><x>один на один</x><xt>kaksikahtel</xt></xg><xg><x>в один голос</x><xt>yhteh iäneh</xt></xg></mg></e>
-<e><lg><l pos="Pron">чей</l></lg><mg><defNative>(<b>чья, чьё, чьи</b>)</defNative><tg><t></t></tg></mg><mg><n>1.</n> (<i>вопрос. мест.</i>) kenen; чей это карандаш? kenen karandiššu tämä on? чья эта тетрадь? kenen tetratti tämä on? чьи это деньги? kenen nämmä dengat ollah? </mg><mg><defNative>(<i>относ. мест.</i>)</defNative><tg><t>kenen</t><t>kud|ai (-uan, -uadu; -ualoi)</t></tg><xg><x>герой, чьё имя осталось неизвестным</x><xt>urhomies, kuduan nimi jäi tundemattomakse</xt></xg><xg><x>теперь посмотрим, чей рисунок лучший</x><xt>nygöi kačommo, kenen kuva on paras</xt></xg></mg></e>
-<e><lg><l pos="Pron">что</l></lg><mg><nr>1</nr> (<i>мест. вопр. и относ.</i> чего, чему, чем, о чём) mi (min, midä); что это? mi neče on? после чего min jälgeh; чему ты радуешься? mille (midä) sinä ihastelet? что ты делаешь? midä sinä ruat? чем ты недоволен? mi suatoi sinuu pahah mieleh? о чём ты говоришь? mih näh sinä pagizet? (mis on sinun pagin?) ◊ будь что будет roikkah mi roikkah; на что, для чего mih näh; за что mis periä; ни за что, ни про что hyväshyvytty; только что vastevai; кое что yhty da tostu (kuda midä)</mg></e>
-<e><lg><l pos="Pron">что-либо</l></lg><mg><defNative>(<i>мест. неопр.</i>)</defNative><tg><t>mitah (mintah, midätah)</t><t>mitahto (mintahto, midätahto)</t></tg><xg><x>возьми что-либо в руки</x><xt>ota mitah käzih</xt></xg><xg><x>видишь ли ты что-либо</x><xt>näitgo midätah?</xt></xg></mg></e>
-<e><lg><l pos="Pron">что-нибудь</l></lg><mg><defNative>(<i>мест. неопр.</i>)</defNative><tg><t>mitah (mintah, midätah)</t><t>mitahto (mintahto, midätahto)</t></tg><xg><x>возьми что-либо в руки</x><xt>ota mitah käzih</xt></xg><xg><x>видишь ли ты что-либо</x><xt>näitgo midätah?</xt></xg></mg></e>
-<e><lg><l pos="Pron">что-то</l></lg><mg><defNative>(<i>мест. неопр.</i>)</defNative><tg><t>milienne (minlienne, midälienne)</t><t>miliennöy (minliennöy, midäliennöy)</t></tg><xg><x>он хотел мне что-то сказать</x><xt>häi tahtoi sanuo midälienne minule</xt></xg><xg><x>что-то темнеется в кустах</x><xt>milienne mustottau tuhjolois</xt></xg></mg></e>
-<e><lg><l pos="Pron">я</l></lg><mg><tg xml:lang="olo"><t>min|ä (-un, -uu)</t></tg><xg><x>я пришёл</x><xt>minä tulin</xt></xg><xg><x>у меня нет времени</x><xt>minul ei ole aigua</xt></xg><xg><x>меня позвали в гости</x><xt>minuu kučuttih gostih</xt></xg><xg><x>дай мне книгу</x><xt>anna minule kniigu</xt></xg><xg><x>собака напала на меня</x><xt>koiru tuli minuh käzin</xt></xg><xg><x>пойдём со мной</x><xt>läkkä minunke</xt></xg><xg><x>они говорят обо мне</x><xt>hyö paistah minuh näh</xt></xg></mg></e>
-<e><lg><l pos="Pron">ты</l></lg><mg><defNative>(тебя, тебе, тобой, о тебе)</defNative><tg xml:lang="olo"><t>sin|ä (-un, -uu)</t></tg><xg><x>это ты?</x><xt>sinägo se olet?</xt></xg><xg><x>как тебя зовут</x><xt>kuibo sinuu kučutah</xt></xg><xg><x>тебе надо учиться</x><xt>sinul pidäy opastuo</xt></xg><xg><x>мы только что говорили о тебе</x><xt>myö vastevai pagizimmo sinuh näh</xt></xg></mg></e>
-<e><lg><l pos="Pron">вы</l></lg><mg><defNative>(вас, вам, вами, о вас)</defNative><tg xml:lang="olo"><t>työ (teijän, teidy)</t></tg><xg><x>вас не было дома</x><xt>teidy ei olluh kois</xt></xg><xg><x>вам пришло письмо</x><xt>teile tuli kirjaine</xt></xg><xg><x>ваш сын</x><xt>teijän poigu</xt></xg><xg><x>о вас пишут в газетах</x><xt>teih näh kirjutetah sanomulehtilöis</xt></xg></mg></e>
-<e><lg><l pos="Pron">мы</l></lg><mg><tg xml:lang="olo"><t>myö (meijän, meidy)</t></tg><xg><x>мы пришли</x><xt>myö tulimmo</xt></xg><xg><x>нас зовут домой</x><xt>meidy kučutah kodih</xt></xg><xg><x>без нас</x><xt>meittäh</xt></xg><xg><x>у нас много работы</x><xt>meil on äijy ruaduo</xt></xg><xg><x>нам дали зарплату</x><xt>meile maksettih ruadopalku</xt></xg><xg><x>пойдёмте с нами</x><xt>läkkiä meijänke</xt></xg></mg></e>
-<e><lg><l pos="Pron">оно</l></lg><mg><defNative>(его, него; ему, нему; им, ним; о нём)</defNative><tg xml:lang="olo"><t>se (sen, sidä)</t></tg><xg><x>я купался в озере, оно очень глубокое</x><xt>minä kylvin kezoidu järves, se on ylen syvä</xt></xg></mg></e>
-<e><lg><l pos="Pron">они</l></lg><mg><defNative>(их, них; им, ним; ими, ними; о них)</defNative><tg xml:lang="olo"><t>hyö (heijän, heidy)</t><t>(</t></tg><i>не о человеке</i>) net (niilöin, niilöi); они читают книгу hyö lugietah kniigua; их нет дома heidy ei ole kois; мы были у них myö olimmo heijällyö; я им скажу minä heile sanon; мы пойдём к ним myö lähtemmö heijällyö; от них пришёл ответ heispäi tuli vastavus; ими ещё ничего не сделано hyö vie ei ole nimidä luajittu; о них много пишут heih näh äijy kirjutetah; я не знаком с ними minä en tunne heidy; возьми книги, они на столе ota kniigat, net ollah stolal; научись читать их opastu lugemah niidy</mg></e>
-<e><lg><l pos="Pron">он</l></lg><mg><defNative>(его, него; ему, нему; им, ним; о нём)</defNative><tg><t>häi</t></tg><xg><x>он учится в школе</x><xt>häi opastuu školas</xt></xg><xg><x>его нет дома</x><xt>händy ei ole kois</xt></xg><xg><x>это его вещи</x><xt>net ollah hänen sovat</xt></xg><xg><x>у него много друзей</x><xt>hähel on äijy dovariššua</xt></xg><xg><x>скажите ему </x><xt>sanokkua hänele</xt></xg><xg><x>обратитесь к нему</x><xt>kiändykkiä hänen puoleh</xt></xg><xg><x>мы им гордимся</x><xt>myö ylbeilemmö händy</xt></xg><xg><x>я говорил с ним</x><xt>minä pagizin hänenke</xt></xg><xg><x>я говорил о нём</x><xt>minä pagizin häneh näh</xt></xg></mg><mg><defNative>(<i>не о человеке</i>)</defNative><tg><t>se (sen, sidä)</t></tg></mg></e>
-<e><lg><l pos="Pron">она</l></lg><mg><defNative>(её, неё; ей, ней; ей, ею, ней, нею; о ней)</defNative><tg xml:lang="olo"><t>häi</t></tg><xg><x>она учится в школе</x><xt>häi opastuu školas</xt></xg><xg><x>её нет дома</x><xt>händy ei ole kois</xt></xg><xg><x>это её вещи</x><xt>net ollah hänen sovat</xt></xg><xg><x>у неё много друзей</x><xt>hähel on äijy dovariššua</xt></xg><xg><x>скажите ей</x><xt>sanokkua hänele</xt></xg><xg><x>обратитесь к ней</x><xt>kiändykkiä hänen puoleh</xt></xg><xg><x>мы ею гордимся</x><xt>myö ylbeilemmö händy</xt></xg><xg><x>я говорил с ней</x><xt>minä pagizin hänenke</xt></xg><xg><x>я говорил о ней</x><xt>minä pagizin häneh näh</xt></xg></mg><mg><defNative>(<i>не о человеке</i>)</defNative><tg><t>se (sen, sidä)</t></tg><xg><x>я купил книгу, она очень интересная</x><xt>minä ostin kniigan, se on ylen kiindožu</xt></xg></mg></e>
-<e><lg><l pos="Pron">этот</l></lg><mg><defNative>(эта, этот; эти)</defNative><tg><t></t></tg></mg><mg><n>1.</n> <i>прил. указ.</i> tämä (tämän, tädä); se (sen, sidä); nämmä (nämmien, nämmii); этот день tämä päivy; читать эту книгу lugie tädä kniigua; я возьму эту книгу minä otan tämän kniigan; в этом доме täs kois; этим летом tänä kezän;наэтойнеделеtälnedälil;запомниэто!otasemustoh! я тебе это говорил olen sen sanonuh sinule; до этого ennen sidä; скажи этому человеку sano sil ristikanzal; эти люди nämmä rahvas; на этих днях nämmin päivin; </mg><mg><defNative><i>в знач. сущ.</i> (этот, эта, это)</defNative><tg><t>tämä</t><t>se se (sen, sidä)</t></tg><xg><x>возьми это</x><xt>ota tämä</xt></xg><xg><x>это не правда</x><xt>se ei ole tozi</xt></xg><xg><x>после этого</x><xt>tämän (sen) jälgeh</xt></xg><xg><x>до этого</x><xt>tädä (sidä) ennen</xt></xg></mg></e>
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="rus">
+  <e>
+    <lg>
+      <l pos="Pron">вы</l>
+    </lg>
+    <mg>
+      <defNative>(вас, вам, вами, о вас)</defNative>
+      <tg xml:lang="olo">
+        <t>työ (teijän, teidy)</t>
+      </tg>
+      <xg>
+        <x>вас не было дома</x>
+        <xt>teidy ei olluh kois</xt>
+      </xg>
+      <xg>
+        <x>вам пришло письмо</x>
+        <xt>teile tuli kirjaine</xt>
+      </xg>
+      <xg>
+        <x>ваш сын</x>
+        <xt>teijän poigu</xt>
+      </xg>
+      <xg>
+        <x>о вас пишут в газетах</x>
+        <xt>teih näh kirjutetah sanomulehtilöis</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">который</l>
+    </lg>
+    <mg>
+      <defNative>(<i>вопр. мест.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>kud|ai (-uan, -uadu; -ualoi)</t>
+        <t ContlexType="NMN_KARJALAINE">mittuine</t>
+      </tg>
+      <xg>
+        <x>который из вас ответит?</x>
+        <xt>kudaibo teis vastuau?</xt>
+      </xg>
+      <xg>
+        <x>которое сегодня число?</x>
+        <xt>mittuinebo tänäpäi on päivy?</xt>
+      </xg>
+      <xg>
+        <x>который час?</x>
+        <xt>äijygo on aigua?</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>относ. мест.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>kud|ai (-uan, -uadu; -ualoi)</t>
+      </tg>
+      <xg>
+        <x>человек, которого я знаю</x>
+        <xt>ristikanzu, kuduadu minä tiijän</xt>
+      </xg>
+      <xg>
+        <x>город, в котором я живу</x>
+        <xt>linnu, kuduas minä elän</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">кто</l>
+    </lg>
+    <mg>
+      <defNative>(<i>вопрос. мест.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>ken</t>
+        <t>ket (kenen; kedä)</t>
+      </tg>
+      <xg>
+        <x>кто пришёл?</x>
+        <xt>kenbo tuli?</xt>
+      </xg>
+      <xg>
+        <x>кто ушёл?</x>
+        <xt>ketbo lähtiettih?</xt>
+      </xg>
+      <xg>
+        <x>кого нет дома?</x>
+        <xt>kedäbo ei ole kois?</xt>
+      </xg>
+      <xg>
+        <x>кому надо дать книгу?</x>
+        <xt>kellebo pidäy andua kniigu?</xt>
+      </xg>
+      <xg>
+        <x>кем ты хочешь стать?</x>
+        <xt>keneksebo sinä tahtot roita?</xt>
+      </xg>
+      <xg>
+        <x>о ком ты тоскуешь?</x>
+        <xt>kedäbo sinä atkaloičet (igävoičet)?</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>относ. мест.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>ken</t>
+      </tg>
+      <xg>
+        <x>каждый, кто знает стихотворение</x>
+        <xt>jogahine, ken tiedäy runon ◊</xt>
+      </xg>
+      <xg>
+        <x>кто бы ни был</x>
+        <xt>olgah kentahto</xt>
+      </xg>
+      <xg>
+        <x>кто куда</x>
+        <xt>ken kunne</xt>
+      </xg>
+      <xg>
+        <x>мало ли кто</x>
+        <xt>vähätöigo ken</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">куда</l>
+    </lg>
+    <mg>
+      <defNative>(<i>вопрос. мест.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>kunne</t>
+      </tg>
+      <xg>
+        <x>куда ты пошёл?</x>
+        <xt>kunne sinä lähtit?</xt>
+      </xg>
+      <xg>
+        <x>куда ты идёшь?</x>
+        <xt>kunne olet menemäs?</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>относ. мест.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>kunne</t>
+      </tg>
+      <xg>
+        <x>не знаю, куда он уехал</x>
+        <xt>en tiijä, kunne häi ajoi</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">мы</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>myö (meijän, meidy)</t>
+      </tg>
+      <xg>
+        <x>мы пришли</x>
+        <xt>myö tulimmo</xt>
+      </xg>
+      <xg>
+        <x>нас зовут домой</x>
+        <xt>meidy kučutah kodih</xt>
+      </xg>
+      <xg>
+        <x>без нас</x>
+        <xt>meittäh</xt>
+      </xg>
+      <xg>
+        <x>у нас много работы</x>
+        <xt>meil on äijy ruaduo</xt>
+      </xg>
+      <xg>
+        <x>нам дали зарплату</x>
+        <xt>meile maksettih ruadopalku</xt>
+      </xg>
+      <xg>
+        <x>пойдёмте с нами</x>
+        <xt>läkkiä meijänke</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">один</l>
+    </lg>
+    <mg><defNative>(одна, одно)</defNative><tg xml:lang="olo"><t/></tg><i>колич. числ.</i> </mg>
+    <mg><n>1.</n> (<i>число, количество</i>) yksi (yhten, yhty; yksii); один ученик yksi opastui; одна книга yksi kniigu; одно окно yksi ikkun; один раз yhten kerran; </mg>
+    <mg>
+      <defNative><i>в знач. прил.</i> (<i>без других</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>yksin</t>
+        <t>yksinäh</t>
+      </tg>
+      <xg>
+        <x>он пришёл один</x>
+        <xt>häi tuli yksin (yksinäh)</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative><i>в знач. прил.</i> (<i>только, исключительно</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>vai</t>
+        <t>vaiku</t>
+      </tg>
+      <xg>
+        <x>я зашёл на одну минуту</x>
+        <xt>minä tulin vai kodvazekse</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative><i>в знач. прил.</i> (<i>тот же самый, одинаковый</i>)</defNative>
+      <tg xml:lang="olo">
+        <t ContlexType="NMN_KALA">sama</t>
+        <t ContlexType="NMN_KARJALAINE">samaine</t>
+      </tg>
+      <xg>
+        <x>я одного мнения с тобой</x>
+        <xt>olen samua mieldy sinunke</xt>
+      </xg>
+      <xg>
+        <x>говорить одно и то же</x>
+        <xt>paista yhty samua</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative><i>в знач. мест.</i> (<i>какой-то, некий</i>)</defNative>
+      <tg xml:lang="olo">
+        <t ContlexType="NMN_EVAES">eräs</t>
+        <t>yksi (yhten, yhty; yksii)</t>
+      </tg>
+      <xg>
+        <x>один из многих</x>
+        <xt>eräs</xt>
+      </xg>
+      <xg>
+        <x>в один прекрасный день</x>
+        <xt>erähänny kaunehennu päivänny ◊</xt>
+      </xg>
+      <xg>
+        <x>один на один</x>
+        <xt>kaksikahtel</xt>
+      </xg>
+      <xg>
+        <x>в один голос</x>
+        <xt>yhteh iäneh</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">он</l>
+    </lg>
+    <mg>
+      <defNative>(его, него; ему, нему; им, ним; о нём)</defNative>
+      <tg xml:lang="olo">
+        <t>häi</t>
+      </tg>
+      <xg>
+        <x>он учится в школе</x>
+        <xt>häi opastuu školas</xt>
+      </xg>
+      <xg>
+        <x>его нет дома</x>
+        <xt>händy ei ole kois</xt>
+      </xg>
+      <xg>
+        <x>это его вещи</x>
+        <xt>net ollah hänen sovat</xt>
+      </xg>
+      <xg>
+        <x>у него много друзей</x>
+        <xt>hähel on äijy dovariššua</xt>
+      </xg>
+      <xg>
+        <x>скажите ему </x>
+        <xt>sanokkua hänele</xt>
+      </xg>
+      <xg>
+        <x>обратитесь к нему</x>
+        <xt>kiändykkiä hänen puoleh</xt>
+      </xg>
+      <xg>
+        <x>мы им гордимся</x>
+        <xt>myö ylbeilemmö händy</xt>
+      </xg>
+      <xg>
+        <x>я говорил с ним</x>
+        <xt>minä pagizin hänenke</xt>
+      </xg>
+      <xg>
+        <x>я говорил о нём</x>
+        <xt>minä pagizin häneh näh</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>не о человеке</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>se (sen, sidä)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">она</l>
+    </lg>
+    <mg>
+      <defNative>(её, неё; ей, ней; ей, ею, ней, нею; о ней)</defNative>
+      <tg xml:lang="olo">
+        <t>häi</t>
+      </tg>
+      <xg>
+        <x>она учится в школе</x>
+        <xt>häi opastuu školas</xt>
+      </xg>
+      <xg>
+        <x>её нет дома</x>
+        <xt>händy ei ole kois</xt>
+      </xg>
+      <xg>
+        <x>это её вещи</x>
+        <xt>net ollah hänen sovat</xt>
+      </xg>
+      <xg>
+        <x>у неё много друзей</x>
+        <xt>hähel on äijy dovariššua</xt>
+      </xg>
+      <xg>
+        <x>скажите ей</x>
+        <xt>sanokkua hänele</xt>
+      </xg>
+      <xg>
+        <x>обратитесь к ней</x>
+        <xt>kiändykkiä hänen puoleh</xt>
+      </xg>
+      <xg>
+        <x>мы ею гордимся</x>
+        <xt>myö ylbeilemmö händy</xt>
+      </xg>
+      <xg>
+        <x>я говорил с ней</x>
+        <xt>minä pagizin hänenke</xt>
+      </xg>
+      <xg>
+        <x>я говорил о ней</x>
+        <xt>minä pagizin häneh näh</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>не о человеке</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>se (sen, sidä)</t>
+      </tg>
+      <xg>
+        <x>я купил книгу, она очень интересная</x>
+        <xt>minä ostin kniigan, se on ylen kiindožu</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">они</l>
+    </lg>
+    <mg><defNative>(их, них; им, ним; ими, ними; о них)</defNative><tg xml:lang="olo"><t>hyö (heijän, heidy)</t><t>(</t></tg><i>не о человеке</i>) net (niilöin, niilöi); они читают книгу hyö lugietah kniigua; их нет дома heidy ei ole kois; мы были у них myö olimmo heijällyö; я им скажу minä heile sanon; мы пойдём к ним myö lähtemmö heijällyö; от них пришёл ответ heispäi tuli vastavus; ими ещё ничего не сделано hyö vie ei ole nimidä luajittu; о них много пишут heih näh äijy kirjutetah; я не знаком с ними minä en tunne heidy; возьми книги, они на столе ota kniigat, net ollah stolal; научись читать их opastu lugemah niidy</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">оно</l>
+    </lg>
+    <mg>
+      <defNative>(его, него; ему, нему; им, ним; о нём)</defNative>
+      <tg xml:lang="olo">
+        <t>se (sen, sidä)</t>
+      </tg>
+      <xg>
+        <x>я купался в озере, оно очень глубокое</x>
+        <xt>minä kylvin kezoidu järves, se on ylen syvä</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">ты</l>
+    </lg>
+    <mg>
+      <defNative>(тебя, тебе, тобой, о тебе)</defNative>
+      <tg xml:lang="olo">
+        <t>sin|ä (-un, -uu)</t>
+      </tg>
+      <xg>
+        <x>это ты?</x>
+        <xt>sinägo se olet?</xt>
+      </xg>
+      <xg>
+        <x>как тебя зовут</x>
+        <xt>kuibo sinuu kučutah</xt>
+      </xg>
+      <xg>
+        <x>тебе надо учиться</x>
+        <xt>sinul pidäy opastuo</xt>
+      </xg>
+      <xg>
+        <x>мы только что говорили о тебе</x>
+        <xt>myö vastevai pagizimmo sinuh näh</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">чей</l>
+    </lg>
+    <mg>
+      <defNative>(<b>чья, чьё, чьи</b>)</defNative>
+      <tg xml:lang="olo">
+        <t/>
+      </tg>
+    </mg>
+    <mg><n>1.</n> (<i>вопрос. мест.</i>) kenen; чей это карандаш? kenen karandiššu tämä on? чья эта тетрадь? kenen tetratti tämä on? чьи это деньги? kenen nämmä dengat ollah? </mg>
+    <mg>
+      <defNative>(<i>относ. мест.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>kenen</t>
+        <t>kud|ai (-uan, -uadu; -ualoi)</t>
+      </tg>
+      <xg>
+        <x>герой, чьё имя осталось неизвестным</x>
+        <xt>urhomies, kuduan nimi jäi tundemattomakse</xt>
+      </xg>
+      <xg>
+        <x>теперь посмотрим, чей рисунок лучший</x>
+        <xt>nygöi kačommo, kenen kuva on paras</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">что</l>
+    </lg>
+    <mg><nr>1</nr> (<i>мест. вопр. и относ.</i> чего, чему, чем, о чём) mi (min, midä); что это? mi neče on? после чего min jälgeh; чему ты радуешься? mille (midä) sinä ihastelet? что ты делаешь? midä sinä ruat? чем ты недоволен? mi suatoi sinuu pahah mieleh? о чём ты говоришь? mih näh sinä pagizet? (mis on sinun pagin?) ◊ будь что будет roikkah mi roikkah; на что, для чего mih näh; за что mis periä; ни за что, ни про что hyväshyvytty; только что vastevai; кое что yhty da tostu (kuda midä)</mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">что-либо</l>
+    </lg>
+    <mg>
+      <defNative>(<i>мест. неопр.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>mitah (mintah, midätah)</t>
+        <t>mitahto (mintahto, midätahto)</t>
+      </tg>
+      <xg>
+        <x>возьми что-либо в руки</x>
+        <xt>ota mitah käzih</xt>
+      </xg>
+      <xg>
+        <x>видишь ли ты что-либо</x>
+        <xt>näitgo midätah?</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">что-нибудь</l>
+    </lg>
+    <mg>
+      <defNative>(<i>мест. неопр.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>mitah (mintah, midätah)</t>
+        <t>mitahto (mintahto, midätahto)</t>
+      </tg>
+      <xg>
+        <x>возьми что-либо в руки</x>
+        <xt>ota mitah käzih</xt>
+      </xg>
+      <xg>
+        <x>видишь ли ты что-либо</x>
+        <xt>näitgo midätah?</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">что-то</l>
+    </lg>
+    <mg>
+      <defNative>(<i>мест. неопр.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>milienne (minlienne, midälienne)</t>
+        <t>miliennöy (minliennöy, midäliennöy)</t>
+      </tg>
+      <xg>
+        <x>он хотел мне что-то сказать</x>
+        <xt>häi tahtoi sanuo midälienne minule</xt>
+      </xg>
+      <xg>
+        <x>что-то темнеется в кустах</x>
+        <xt>milienne mustottau tuhjolois</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">этот</l>
+    </lg>
+    <mg>
+      <defNative>(эта, этот; эти)</defNative>
+      <tg xml:lang="olo">
+        <t/>
+      </tg>
+    </mg>
+    <mg><n>1.</n> <i>прил. указ.</i> tämä (tämän, tädä); se (sen, sidä); nämmä (nämmien, nämmii); этот день tämä päivy; читать эту книгу lugie tädä kniigua; я возьму эту книгу minä otan tämän kniigan; в этом доме täs kois; этим летом tänä kezän;наэтойнеделеtälnedälil;запомниэто!otasemustoh! я тебе это говорил olen sen sanonuh sinule; до этого ennen sidä; скажи этому человеку sano sil ristikanzal; эти люди nämmä rahvas; на этих днях nämmin päivin; </mg>
+    <mg>
+      <defNative><i>в знач. сущ.</i> (этот, эта, это)</defNative>
+      <tg xml:lang="olo">
+        <t>tämä</t>
+        <t>se se (sen, sidä)</t>
+      </tg>
+      <xg>
+        <x>возьми это</x>
+        <xt>ota tämä</xt>
+      </xg>
+      <xg>
+        <x>это не правда</x>
+        <xt>se ei ole tozi</xt>
+      </xg>
+      <xg>
+        <x>после этого</x>
+        <xt>tämän (sen) jälgeh</xt>
+      </xg>
+      <xg>
+        <x>до этого</x>
+        <xt>tädä (sidä) ennen</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pron">я</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>min|ä (-un, -uu)</t>
+      </tg>
+      <xg>
+        <x>я пришёл</x>
+        <xt>minä tulin</xt>
+      </xg>
+      <xg>
+        <x>у меня нет времени</x>
+        <xt>minul ei ole aigua</xt>
+      </xg>
+      <xg>
+        <x>меня позвали в гости</x>
+        <xt>minuu kučuttih gostih</xt>
+      </xg>
+      <xg>
+        <x>дай мне книгу</x>
+        <xt>anna minule kniigu</xt>
+      </xg>
+      <xg>
+        <x>собака напала на меня</x>
+        <xt>koiru tuli minuh käzin</xt>
+      </xg>
+      <xg>
+        <x>пойдём со мной</x>
+        <xt>läkkä minunke</xt>
+      </xg>
+      <xg>
+        <x>они говорят обо мне</x>
+        <xt>hyö paistah minuh näh</xt>
+      </xg>
+    </mg>
+  </e>
 </r>

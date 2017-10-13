@@ -1,9 +1,701 @@
-<?xml version="1.0" encoding="utf-8"?>
-<r id="rusolo" xml:lang="rus">
-<e><lg><l pos="Pr">без</l></lg><mg><defNative>(<b>безо</b>)</defNative><tg><t>ilmai</t><t>vajai</t></tg><xg><x>без тебя знаю</x><xt>ilmai sinuu tiijän</xt><xt>sinuttah tiijän</xt></xg><xg><x>остаться без отца</x><xt>jiähä tuatattah</xt></xg><xg><x>работать без отдыха</x><xt>ruadua huogavumattah</xt></xg><xg><x>взять без разрешения</x><xt>ottua kyzymättäh</xt></xg><xg><x>времени без десяти минут два</x><xt>aigua on kymmendy minuuttua vajai kaksi</xt></xg><xg><x>сидеть без дела</x><xt>istuo joute</xt></xg><xg><x>без всяких</x><xt>ilmai kaikkie</xt></xg><xg><x>и без того</x><xt>muitegi</xt></xg></mg></e>
-<e><lg><l pos="Pr">вроде</l></lg><mg><defNative>(<i>предлог</i>)</defNative><tg><t ContlexType="N_LIYGILÄINE">jyttyine</t><t>jytys</t></tg><xg><x>вроде тебя</x><xt>sinun jyttyine (jytys)</xt></xg><xg><x>он вроде тебя</x><xt>häi on sinun jytys (häi on kui sinä)</xt></xg></mg></e>
-<e><lg><l pos="Pr">из-под</l></lg><mg><defNative>(<i>направление движения</i>: <i>откуда</i>)</defNative><tg><t>alpäi</t></tg><xg><x>взять из-под стола</x><xt>ottua stolan alpäi</xt></xg><xg><x>показаться из-под земли</x><xt>ozuttuakseh muan alpäi</xt></xg></mg><mg><defNative>(<i>при обозначении населённого пункта</i>: <i>откуда</i>)</defNative><tg><t>:</t></tg><xg><x>он родом из-под Москвы</x><xt>häi on rodinuhes Moskovan lähäl</xt></xg></mg><mg><defNative>(<i>при указании на назначение предмета</i>)</defNative><tg><t>:</t></tg><xg><x>коробка из-под чая</x><xt>čuajujuaššiekku</xt></xg><xg><x>бутылка из-под молока</x><xt>maidobutulku (butilku on maijon jällel)</xt></xg><xg><x>корзинка из-под ягод</x><xt>marjuviršine</xt></xg><xg><x>из-под носа</x><xt>nenän alpäi</xt></xg></mg></e>
-<e><lg><l pos="Pr">из-за</l></lg><mg><defNative>(<i>откуда</i>)</defNative><tg><t>tagua</t><t>tagan</t></tg><xg><x>из-за шкафа</x><xt>škuapan tagua (tagan)</xt></xg><xg><x>из-за границы</x><xt>rajan tagua (tagan)</xt></xg><xg><x>из-за облаков</x><xt>pilvien tagua (tagan)</xt></xg></mg><mg><defNative>(<i>по причине</i>)</defNative><tg><t>täh</t><t>periä</t></tg><xg><x>из-за тебя</x><xt>sinun täh (periä)</xt></xg><xg><x>из-за</x><xt>lapsien täh (periä)</xt></xg><xg><x>из-за болезни</x><xt>voimattomuon täh (periä)</xt></xg></mg></e>
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="rus">
+  <e>
+    <lg>
+      <l pos="Pr">без</l>
+    </lg>
+    <mg>
+      <defNative>(<b>безо</b>)</defNative>
+      <tg xml:lang="olo">
+        <t>ilmai</t>
+        <t>vajai</t>
+      </tg>
+      <xg>
+        <x>без тебя знаю</x>
+        <xt>ilmai sinuu tiijän</xt>
+        <xt>sinuttah tiijän</xt>
+      </xg>
+      <xg>
+        <x>остаться без отца</x>
+        <xt>jiähä tuatattah</xt>
+      </xg>
+      <xg>
+        <x>работать без отдыха</x>
+        <xt>ruadua huogavumattah</xt>
+      </xg>
+      <xg>
+        <x>взять без разрешения</x>
+        <xt>ottua kyzymättäh</xt>
+      </xg>
+      <xg>
+        <x>времени без десяти минут два</x>
+        <xt>aigua on kymmendy minuuttua vajai kaksi</xt>
+      </xg>
+      <xg>
+        <x>сидеть без дела</x>
+        <xt>istuo joute</xt>
+      </xg>
+      <xg>
+        <x>без всяких</x>
+        <xt>ilmai kaikkie</xt>
+      </xg>
+      <xg>
+        <x>и без того</x>
+        <xt>muitegi</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">в</l>
+    </lg>
+    <mg><b>в (во)</b> </mg>
+    <mg><n>1.</n> (<i>о месте</i>: <i>где</i>): в доме kois; жить в деревне eliä kyläs; в лесу mečäs; быть в городе olla linnas; купить в магазине ostua laukas; учиться в университете opastuo yliopistos; </mg>
+    <mg>
+      <defNative>(<i>о направлении</i>: <i>куда</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>в дом</x>
+        <xt>kodih</xt>
+      </xg>
+      <xg>
+        <x>идти в школу</x>
+        <xt>mennä školah</xt>
+      </xg>
+      <xg>
+        <x>отправиться в лес</x>
+        <xt>lähtie meččäh</xt>
+      </xg>
+      <xg>
+        <x>положить в стол</x>
+        <xt>panna stolah</xt>
+      </xg>
+      <xg>
+        <x>вмешаться в ссору</x>
+        <xt>kyskevyö riidah</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>о времени</i>: <i>когда, в какой срок</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>в понедельник</x>
+        <xt>ezmässarren</xt>
+      </xg>
+      <xg>
+        <x>в тот же день</x>
+        <xt>sinäpiän</xt>
+      </xg>
+      <xg>
+        <x>в прошлом году</x>
+        <xt>mennytvuon</xt>
+      </xg>
+      <xg>
+        <x>в обед</x>
+        <xt>murginan aigua</xt>
+      </xg>
+      <xg>
+        <x>в середине лета</x>
+        <xt>keskikezäl</xt>
+      </xg>
+      <xg>
+        <x>проснуться в восемь часов</x>
+        <xt>havaččuo kaheksan aigua</xt>
+      </xg>
+      <xg>
+        <x>в апреле</x>
+        <xt>sulakuus</xt>
+      </xg>
+      <xg>
+        <x>в день</x>
+        <xt>päiväs (päivän sydämeh)</xt>
+      </xg>
+      <xg>
+        <x>в течение дня</x>
+        <xt>päivän aloh</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>об одежде, обуви и т. п.</i>: <i>в чём</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>в красивом платье</x>
+        <xt>čomis pluatʼois</xt>
+      </xg>
+      <xg>
+        <x>в шубе</x>
+        <xt>turkilois</xt>
+      </xg>
+      <xg>
+        <x>в обуви</x>
+        <xt>jallaččilois</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>о состоянии</i>: <i>какой</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>быть в восторге</x>
+        <xt>olla ihastuksis</xt>
+      </xg>
+      <xg>
+        <x>прийти в восторг</x>
+        <xt>ihastuo</xt>
+      </xg>
+      <xg>
+        <x>быть в плохом настроении</x>
+        <xt>olla pahas mieles</xt>
+      </xg>
+      <xg>
+        <x>нуждаться в помощи</x>
+        <xt>tarvita abuu</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>о признаке</i>: <i>какой</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>широкий в плечах</x>
+        <xt>levei hardielois</xt>
+      </xg>
+      <xg>
+        <x>тетрадь в клетку</x>
+        <xt>kodatetratti</xt>
+      </xg>
+      <xg>
+        <x>тетрадь в линейку</x>
+        <xt>junotetratti</xt>
+      </xg>
+      <xg>
+        <x>длиной в три метра</x>
+        <xt>kolmen metrin piduhus</xt>
+      </xg>
+      <xg>
+        <x>в три раза дороже</x>
+        <xt>kolmie kerdua kallehembi</xt>
+      </xg>
+      <xg>
+        <x>мороз в двадцать градусов</x>
+        <xt>kaksikymmen astettu pakkastu</xt>
+      </xg>
+      <xg>
+        <x>высотой в два метра</x>
+        <xt>kahten metrin korgevus</xt>
+      </xg>
+      <xg>
+        <x>характером в мать</x>
+        <xt>taval muamahes</xt>
+      </xg>
+      <xg>
+        <x>кудрявый в деда</x>
+        <xt>kidžertukku diedʼoihes</xt>
+      </xg>
+      <xg>
+        <x>поле в цветах</x>
+        <xt>peldo on kukis</xt>
+      </xg>
+      <xg>
+        <x>небо в тучах</x>
+        <xt>taivas on pilvis</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>о действии</i>: <i>как</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>изорвать в клочья</x>
+        <xt>revitellä palazikse</xt>
+      </xg>
+      <xg>
+        <x>читать в очках</x>
+        <xt>lugie očkis</xt>
+      </xg>
+      <xg>
+        <x>повторить слово в слово</x>
+        <xt>sanuo uvvessah sana sanah</xt>
+      </xg>
+      <xg>
+        <x>жить в мире и согласии</x>
+        <xt>eliä rauhas da sovus</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">вокруг</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>ymbäri</t>
+      </tg>
+      <xg>
+        <x>вокруг озера</x>
+        <xt>ymbäri järves</xt>
+      </xg>
+      <xg>
+        <x>оглянуться вокруг</x>
+        <xt>kačahtuakseh ymbäri</xt>
+      </xg>
+      <xg>
+        <x>путешествие вокруг света</x>
+        <xt>matku muailman ymbäri</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">вопреки</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>vastah</t>
+      </tg>
+      <xg>
+        <x>вопреки советам врача</x>
+        <xt>liäkärin nevvondoin vastah</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">вроде</l>
+    </lg>
+    <mg>
+      <defNative>(<i>предлог</i>)</defNative>
+      <tg xml:lang="olo">
+        <t ContlexType="N_LIYGILÄINE">jyttyine</t>
+        <t>jytys</t>
+      </tg>
+      <xg>
+        <x>вроде тебя</x>
+        <xt>sinun jyttyine (jytys)</xt>
+      </xg>
+      <xg>
+        <x>он вроде тебя</x>
+        <xt>häi on sinun jytys (häi on kui sinä)</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">вследствие</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>täh</t>
+        <t>periä</t>
+      </tg>
+      <xg>
+        <x>вследствие болезни</x>
+        <xt>voimattomuon täh (periä)</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">за</l>
+    </lg>
+    <mg>
+      <defNative>(<i>позади, по ту сторону</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>tagan</t>
+        <t>tagua</t>
+      </tg>
+    </mg>
+    <mg>
+      <defNative>(<i>где</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>tuan</t>
+      </tg>
+    </mg>
+    <mg>
+      <defNative>(<i>куда</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>tuakse</t>
+      </tg>
+      <xg>
+        <x>за дверью</x>
+        <xt>uksen tagua (tagan)</xt>
+      </xg>
+      <xg>
+        <x>за лесом</x>
+        <xt>mečän tagua (tagan)</xt>
+      </xg>
+      <xg>
+        <x>сидеть за столом</x>
+        <xt>ustuo stolan tagua</xt>
+      </xg>
+      <xg>
+        <x>поставить что-л. за шкаф</x>
+        <xt>panna mitah škuapan tuakse</xt>
+      </xg>
+      <xg>
+        <x>заложить руки за спину</x>
+        <xt>panna käit sellän tuakse</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>взяться, держаться</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>взять за руку</x>
+        <xt>ottua käis</xt>
+      </xg>
+      <xg>
+        <x>держаться за маму</x>
+        <xt>rippuo muamas kiini</xt>
+      </xg>
+      <xg>
+        <x>схватиться за верёвку</x>
+        <xt>tartuo nuorah</xt>
+      </xg>
+      <xg>
+        <x>приняться за чтение</x>
+        <xt>ruveta lugemah</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>в течение</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>за эти годы</x>
+        <xt>nämmis vuozis</xt>
+      </xg>
+      <xg>
+        <x>за два дня</x>
+        <xt>kahtes päiväs</xt>
+      </xg>
+      <xg>
+        <x>за две последние недели</x>
+        <xt>kahten viimizen nedälin aigua</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>раньше, до</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>ennen</t>
+      </tg>
+      <xg>
+        <x>за час до обеда</x>
+        <xt>čuassuu ennen murginua</xt>
+      </xg>
+      <xg>
+        <x>за день до этого</x>
+        <xt>päiviä ennen tädä</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>на расстоянии</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>peräs</t>
+        <t>piäs</t>
+      </tg>
+      <xg>
+        <x>за десять километров от деревни</x>
+        <xt>kymmenen kilometrin peräs (piäs) kyläspäi</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>ради, во имя</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>puoles</t>
+      </tg>
+      <xg>
+        <x>стоять за правое дело</x>
+        <xt>olla oigien azien puoles</xt>
+      </xg>
+      <xg>
+        <x>заступиться за кого-л.</x>
+        <xt>puolistua kedätahto</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>по причине</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>periä</t>
+        <t>täh</t>
+      </tg>
+      <xg>
+        <x>его не любили за плохой нрав</x>
+        <xt>händy ei suvaittu pahan tavan täh</xt>
+      </xg>
+      <xg>
+        <x>за что?</x>
+        <xt>min täh (periä)? (mikse?)</xt>
+      </xg>
+      <xg>
+        <x>за недостатком времени</x>
+        <xt>aijan vähyön täh</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>о цене, о плате</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>купить за сто рублей</x>
+        <xt>ostua kymmenes rublʼas</xt>
+      </xg>
+      <xg>
+        <x>заплатить за проезд</x>
+        <xt>maksua ajandas</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>вместо</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>sijah</t>
+        <t>sijas</t>
+        <t>tilah</t>
+        <t>tilas</t>
+        <t>tuači</t>
+        <t>cä</t>
+      </tg>
+      <xg>
+        <x>елай это за меня</x>
+        <xt>luaji se minun sijas (tilas), (luaji se minus tuači)</xt>
+      </xg>
+      <xg>
+        <x>работать за другого</x>
+        <xt>ruadua toizes tuači (ruadua toizen sijas (tilas)</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>вслед за</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>jälgeh</t>
+        <t>jälles</t>
+        <t>peräh</t>
+        <t>peräs</t>
+      </tg>
+      <xg>
+        <x>идти за другими</x>
+        <xt>mennä toizile jälgeh (peräh)</xt>
+      </xg>
+      <xg>
+        <x>пойти за отцом</x>
+        <xt>lähtie tuatale jälles</xt>
+      </xg>
+      <xg>
+        <x>день за днём</x>
+        <xt>päivy päivän peräh</xt>
+      </xg>
+      <xg>
+        <x>следуйте за мной</x>
+        <xt>astukkua minule jälles</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>с целью</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>послать сына за водой</x>
+        <xt>työndiä poigua viel</xt>
+      </xg>
+      <xg>
+        <x>пойти за грибами</x>
+        <xt>lähtie sieneh</xt>
+      </xg>
+    </mg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>ухаживать за больным</x>
+        <xt>hoidua voimattomua</xt>
+      </xg>
+      <xg>
+        <x>смотреть за ребёнком</x>
+        <xt>kaččuo lastu</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>замужество, сватовство</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>выйти замуж за соседского сына</x>
+        <xt>mennä miehele susiedan poijale</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>занятия</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>приняться за работу</x>
+        <xt>tartuo ruadoh</xt>
+      </xg>
+      <xg>
+        <x>сидеть за книгой</x>
+        <xt>istuo kniigua lugemas (istuo kniigan tagua)</xt>
+      </xg>
+      <xg>
+        <x>увидеть дочь за чтением письма</x>
+        <xt>nähtä tytärdy kirjastu lugemas</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>превышение меры, количества</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>piäl</t>
+      </tg>
+      <xg>
+        <x>ему за пятьдесят</x>
+        <xt>hänele on piäle viittykymmendy vuottu</xt>
+      </xg>
+      <xg>
+        <x>на улице мороз за двадцать градусов</x>
+        <xt>pihal on piäl kahtenkymmenen astien pakkastu</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>указание на владение, распоряжение</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>земля осталась за ним</x>
+        <xt>mua jäi hänele</xt>
+      </xg>
+      <xg>
+        <x>дом числится за мной</x>
+        <xt>kodi on kirjutettu minun piäl</xt>
+      </xg>
+      <xg>
+        <x>подарок за мной!</x>
+        <xt>lahju minuspäi!</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>внешний признак документа</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>приказ за номером 5</x>
+        <xt>käsky noumer viizi</xt>
+      </xg>
+      <xg>
+        <x>бумага за подписью директора школы</x>
+        <xt>školan johtajan nimenkirjutettu bumuagu</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">из-за</l>
+    </lg>
+    <mg>
+      <defNative>(<i>откуда</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>tagua</t>
+        <t>tagan</t>
+      </tg>
+      <xg>
+        <x>из-за шкафа</x>
+        <xt>škuapan tagua (tagan)</xt>
+      </xg>
+      <xg>
+        <x>из-за границы</x>
+        <xt>rajan tagua (tagan)</xt>
+      </xg>
+      <xg>
+        <x>из-за облаков</x>
+        <xt>pilvien tagua (tagan)</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>по причине</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>täh</t>
+        <t>periä</t>
+      </tg>
+      <xg>
+        <x>из-за тебя</x>
+        <xt>sinun täh (periä)</xt>
+      </xg>
+      <xg>
+        <x>из-за</x>
+        <xt>lapsien täh (periä)</xt>
+      </xg>
+      <xg>
+        <x>из-за болезни</x>
+        <xt>voimattomuon täh (periä)</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Pr">из-под</l>
+    </lg>
+    <mg>
+      <defNative>(<i>направление движения</i>: <i>откуда</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>alpäi</t>
+      </tg>
+      <xg>
+        <x>взять из-под стола</x>
+        <xt>ottua stolan alpäi</xt>
+      </xg>
+      <xg>
+        <x>показаться из-под земли</x>
+        <xt>ozuttuakseh muan alpäi</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>при обозначении населённого пункта</i>: <i>откуда</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>он родом из-под Москвы</x>
+        <xt>häi on rodinuhes Moskovan lähäl</xt>
+      </xg>
+    </mg>
+    <mg>
+      <defNative>(<i>при указании на назначение предмета</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>:</t>
+      </tg>
+      <xg>
+        <x>коробка из-под чая</x>
+        <xt>čuajujuaššiekku</xt>
+      </xg>
+      <xg>
+        <x>бутылка из-под молока</x>
+        <xt>maidobutulku (butilku on maijon jällel)</xt>
+      </xg>
+      <xg>
+        <x>корзинка из-под ягод</x>
+        <xt>marjuviršine</xt>
+      </xg>
+      <xg>
+        <x>из-под носа</x>
+        <xt>nenän alpäi</xt>
+      </xg>
+    </mg>
+  </e>
 </r>

@@ -1,10 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?>
-<r id="rusolo" xml:lang="rus">
-<e><lg><l pos="Interj">ау</l></lg><mg><tg><t pos="Interj">ho-lʼo-lʼoo!</t></tg></mg></e>
-<e><lg><l pos="Interj">ах</l></lg><mg><defNative>(<i>межд.</i>)</defNative><tg><t>ah</t><t>voi</t></tg><xg><x>ах какой красивый цветок!</x><xt>ah (voi) mittuine čoma on kukkaine!</xt></xg></mg></e>
-<e><lg><l pos="N">караул</l></lg><mg><defNative>(<i>в знач. межд.</i>)</defNative><tg><t>karavuul!</t></tg><xg><x>караул! помогите!</x><xt>karavuul! autakkua!</xt></xg></mg></e>
-<e><lg><l>бис!</l></lg><mg><tg><t>uvvessah! vie! bis!</t></tg></mg></e>
-<e><lg><l>боже!</l></lg><mg><tg><t>Pyhä Jumal!</t></tg></mg></e>
-<e><lg><l>до свидания!</l></lg><mg><tg><t>kaikkie hyviä! (jiägiä tervehkse!)</t></tg></mg></e>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="rus">
+  <e>
+    <lg>
+      <l>бис!</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>uvvessah! vie! bis!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l>боже!</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>Pyhä Jumal!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l>до свидания!</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kaikkie hyviä! (jiägiä tervehkse!)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">ау</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t pos="Interj">ho-lʼo-lʼoo!</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Interj">ах</l>
+    </lg>
+    <mg>
+      <defNative>(<i>межд.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>ah</t>
+        <t>voi</t>
+      </tg>
+      <xg>
+        <x>ах какой красивый цветок!</x>
+        <xt>ah (voi) mittuine čoma on kukkaine!</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">караул</l>
+    </lg>
+    <mg>
+      <defNative>(<i>в знач. межд.</i>)</defNative>
+      <tg xml:lang="olo">
+        <t>karavuul!</t>
+      </tg>
+      <xg>
+        <x>караул! помогите!</x>
+        <xt>karavuul! autakkua!</xt>
+      </xg>
+    </mg>
+  </e>
 </r>

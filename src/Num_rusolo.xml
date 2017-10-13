@@ -1,21 +1,271 @@
-<?xml version="1.0" encoding="utf-8"?>
-<r id="rusolo" xml:lang="rus">
-<e><lg><l pos="Num">два</l></lg><mg><tg xml:lang="olo"><t>kaksi</t></tg><xg><x>две пары рукавиц</x><xt>kahtet alazet</xt></xg><xg><x>в классе нет двух человек</x><xt>kluasas ei ole kahtu hengie</xt></xg><xg><x>в два счёта</x><xt>kerral</xt></xg><xg><x>в двух шагах</x><xt>askelen peräs</xt></xg></mg></e>
-<e><lg><l pos="Num">двадцать</l></lg><mg><tg xml:lang="olo"><t>kaksikymmen</t></tg><xg><x>ему больше двадцати лет</x><xt>hänele on enämbi kahtukymmendy vuottu</xt></xg></mg></e>
-<e><lg><l pos="Num">три</l></lg><mg><tg xml:lang="olo"><t>kolme</t></tg><xg><x>разделить на три</x><xt>jagua kolmekse</xt></xg></mg></e>
-<e><lg><l pos="Num">четыре</l></lg><mg><tg xml:lang="olo"><t>nelli</t></tg><xg><x>четыре рубля</x><xt>nelli rublʼua</xt></xg><xg><x>четыре человека</x><xt>nelli hengie</xt></xg></mg></e>
-<e><lg><l pos="Num">семь</l></lg><mg><tg xml:lang="olo"><t>seiččei</t></tg><xg><x>сыну семь лет</x><xt>poijal on seiččei vuottu</xt></xg></mg></e>
-<e><lg><l pos="Num">семьдесят</l></lg><mg><tg xml:lang="olo"><t>seiččeikymmen</t></tg><xg><x>деду исполнилось семьдесят лет</x><xt>diedʼoi täytti seiččeikymmen vuottu</xt></xg></mg></e>
-<e><lg><l pos="Num">семьсот</l></lg><mg><tg><t>seiččeisadua</t></tg></mg></e>
-<e><lg><l pos="Num">пять</l></lg><mg><tg><t>viizi</t></tg></mg></e>
-<e><lg><l pos="Num">пятьдесят</l></lg><mg><tg><t>viizikymmen (viijenkymmenen, viittykymmendy; viiziikymmenii)</t></tg></mg></e>
-<e><lg><l pos="Num">пятьсот</l></lg><mg><tg><t>viizisadua (viijensuan, viittysadua; viiziisadoi)</t></tg></mg></e>
-<e><lg><l pos="Num">тысяча</l></lg><mg><tg xml:lang="olo"><t>tuhat</t></tg><xg><x>Карелия – страна тысяч озёр</x><xt>Karjal on tuhanzien järvien mua</xt></xg><xg><x>тысячами</x><xt>tuhanzittain</xt></xg></mg></e>
-<e><lg><l pos="Det">восьмой</l></lg><mg><tg xml:lang="olo"><t>kaheksas</t></tg><xg><x>учиться в восьмом классе</x><xt>opastuo kaheksandes kluasas</xt></xg></mg></e>
-<e><lg><l pos="Num">двести</l></lg><mg><tg xml:lang="olo"><t>kaksisadua (kahtensuan, kahtusadua; kaksiisadoi)</t></tg><xg><x>в двухстах метрах</x><xt>kahtensuan metrin piäs</xt></xg></mg></e>
-<e><lg><l pos="Num">шесть</l></lg><mg><tg xml:lang="olo"><t>kuuzi</t></tg><xg><x>шесть человек</x><xt>kuuzi hengie</xt></xg></mg></e>
-<e><lg><l pos="Num">шестьдесят</l></lg><mg><tg><t>kuuzikymmen (kuvvenkymmenen, kuuttukymmendy; kuuziikymmenii)</t></tg></mg></e>
-<e><lg><l pos="Num">шестьсот</l></lg><mg><tg><t>kuuzisadua (kuvvensuan, kuuttusadua; kuuziisadoi)</t></tg></mg></e>
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="rus">
+  <e>
+    <lg>
+      <l pos="Det">восьмой</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kaheksas</t>
+      </tg>
+      <xg>
+        <x>учиться в восьмом классе</x>
+        <xt>opastuo kaheksandes kluasas</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">два</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kaksi</t>
+      </tg>
+      <xg>
+        <x>две пары рукавиц</x>
+        <xt>kahtet alazet</xt>
+      </xg>
+      <xg>
+        <x>в классе нет двух человек</x>
+        <xt>kluasas ei ole kahtu hengie</xt>
+      </xg>
+      <xg>
+        <x>в два счёта</x>
+        <xt>kerral</xt>
+      </xg>
+      <xg>
+        <x>в двух шагах</x>
+        <xt>askelen peräs</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">двадцать</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kaksikymmen</t>
+      </tg>
+      <xg>
+        <x>ему больше двадцати лет</x>
+        <xt>hänele on enämbi kahtukymmendy vuottu</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">двести</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kaksisadua (kahtensuan, kahtusadua; kaksiisadoi)</t>
+      </tg>
+      <xg>
+        <x>в двухстах метрах</x>
+        <xt>kahtensuan metrin piäs</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">пять</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>viizi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">пятьдесят</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>viizikymmen (viijenkymmenen, viittykymmendy; viiziikymmenii)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">пятьсот</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>viizisadua (viijensuan, viittysadua; viiziisadoi)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">семь</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>seiččei</t>
+      </tg>
+      <xg>
+        <x>сыну семь лет</x>
+        <xt>poijal on seiččei vuottu</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">семьдесят</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>seiččeikymmen</t>
+      </tg>
+      <xg>
+        <x>деду исполнилось семьдесят лет</x>
+        <xt>diedʼoi täytti seiččeikymmen vuottu</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">семьсот</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>seiččeisadua</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">три</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kolme</t>
+      </tg>
+      <xg>
+        <x>разделить на три</x>
+        <xt>jagua kolmekse</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">тысяча</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>tuhat</t>
+      </tg>
+      <xg>
+        <x>Карелия – страна тысяч озёр</x>
+        <xt>Karjal on tuhanzien järvien mua</xt>
+      </xg>
+      <xg>
+        <x>тысячами</x>
+        <xt>tuhanzittain</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">четыре</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>nelli</t>
+      </tg>
+      <xg>
+        <x>четыре рубля</x>
+        <xt>nelli rublʼua</xt>
+      </xg>
+      <xg>
+        <x>четыре человека</x>
+        <xt>nelli hengie</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">шесть</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kuuzi</t>
+      </tg>
+      <xg>
+        <x>шесть человек</x>
+        <xt>kuuzi hengie</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">шестьдесят</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kuuzikymmen (kuvvenkymmenen, kuuttukymmendy; kuuziikymmenii)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num">шестьсот</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kuuzisadua (kuvvensuan, kuuttusadua; kuuziisadoi)</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num" type="Ord">десятый</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kymmenes</t>
+      </tg>
+      <xg>
+        <x>в десятом классе</x>
+        <xt>kymmenendes kluasas</xt>
+      </xg>
+      <xg>
+        <x>десятая часть</x>
+        <xt>kymmenendes vuitti</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="Num" type="Ord">пятый</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>viijes</t>
+      </tg>
+      <xg>
+        <x>пятое-десятое</x>
+        <xt>sidä da tädä (yhty da tostu)</xt>
+      </xg>
+    </mg>
+  </e>
+<e><lg><l pos="Num">восемнадцать</l></lg><mg><tg xml:lang="olo"><t>kaheksatostu (kaheksantostu, kaheksuatostu; kaheksiitostu)</t></tg><xg><x>в возрасте восемнадцати лет</x><xt>kakeksantostu vuvven igähine (igäine)</xt></xg></mg></e>
+<e><lg><l pos="Num">восемь</l></lg><mg><tg xml:lang="olo"><t>kaheksa (-an, -ua)</t></tg><xg><x>в семье было восемь детей</x><xt>perehes oli kaheksa lastu</xt></xg></mg></e>
+  <e>
+    <lg>
+      <l pos="Num" type="Ord">шестой</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>kuvves</t>
+      </tg>
+      <xg>
+        <x>шестого числа</x>
+        <xt>kuvvendennu piänny</xt>
+      </xg>
+    </mg>
+  </e>
 </r>

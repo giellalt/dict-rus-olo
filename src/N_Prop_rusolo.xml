@@ -1,57 +1,519 @@
-<?xml version="1.0" encoding="utf-8"?>
-<r id="rusolo" xml:lang="rus">
-  <e><lg><l pos="N" type="Prop">Финляндия</l></lg><mg><tg><t>Suomi</t></tg></mg></e>
-
-<e><lg><l pos="N" type="Prop">Европа</l></lg><mg><tg><t>Jevrouppu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Америка</l></lg><mg><tg><t>Amierikku</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Африка</l></lg><mg><tg><t>Afriekku</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Австралия</l></lg><mg><tg><t Contlex="PROP_KONDII">Avstrualii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Австрия</l></lg><mg><tg><t Contlex="PROP_KONDII">Avstrii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Азербайджан</l></lg><mg><tg><t Contlex="PROP_MUARJU">Azerbaidžuanu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Азия</l></lg><mg><tg><t Contlex="PROP_KONDII">Aazii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Албания</l></lg><mg><tg><t Contlex="PROP_KONDII">Albuanii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Англия</l></lg><mg><tg><t Contlex="PROP_KONDII">Anglii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Аргентина</l></lg><mg><tg><t Contlex="PROP_MUARJU">Argentiinu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Армения</l></lg><mg><tg><t Contlex="PROP_KONDII">Armienii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Афганистан</l></lg><mg><tg><t Contlex="PROP_MUARJU">Afganistuanu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Белоруссия</l></lg><mg><tg><t Contlex="PROP_KONDII">Beloruussii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Бельгия</l></lg><mg><tg><t Contlex="PROP_STIPENDII">Belʼgii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Библия</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_STIPENDII">Biblii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Бог</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_TAIGIN">Jumal</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Болгария</l></lg><mg><tg><t Contlex="PROP_KONDII">Bolguarii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Бразилия</l></lg><mg><tg><t Contlex="PROP_KONDII">Braziilii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Венгрия</l></lg><mg><tg><t Contlex="PROP_STIPENDII">Vengrii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Всевышний</l></lg><mg><tg><t Contlex="PROP_TAIGIN">Yli Jumal</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Германия</l></lg><mg><tg><t Contlex="PROP_KONDII">Germuanii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Голландия</l></lg><mg><tg><t Contlex="PROP_KONDII">Gollandii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Греция</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_MUA">Griekanmua</t><t Contlex="PROP_KONDII">Gretsii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Грузия</l></lg><mg><tg><t Contlex="PROP_KONDII">Gruuzii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Дед-мороз</l></lg><mg><tg><t Contlex="PROP_KARJALAINE">Pakkaine</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Евангелие</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_KONDII">jevangelii</t></tg><xg><x>Евангелие от Матвея</x><xt>Jevangelii Matfein mugah</xt></xg></mg></e>
-<e><lg><l pos="N" type="Prop">Египет</l></lg><mg><tg><t Contlex="PROP_MUARJU">Jegiptu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Индия</l></lg><mg><tg><t Contlex="PROP_KONDII">Indii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Испания</l></lg><mg><tg><t Contlex="PROP_KONDII">Ispuanii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Италия</l></lg><mg><tg><t Contlex="PROP_KONDII">Itualii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Канада</l></lg><mg><tg><t Contlex="PROP_MUARJU">Kanuadu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Литва</l></lg><mg><tg><t Contlex="PROP_MUARJU">Litvu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Масленица</l></lg><mg><tg><t Contlex="PROP_KOIVU">Pyhälasku</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Норвегия</l></lg><mg><tg><t Contlex="PROP_KONDII">Norviegii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Пасха</l></lg><mg><tg><t Contlex="PROP_PÄIVY">Äijypäivy</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Покров</l></lg><mg><tg><t Contlex="PROP_MUARJU">Pokrovu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Польша</l></lg><mg><tg><t Contlex="PROP_MUARJU">Polʼšu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Рождество</l></lg><mg><tg><t Contlex="PROP_MUARJU">Rastavu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Румыния</l></lg><mg><tg><t Contlex="PROP_KONDII">Rumiinii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Сербия</l></lg><mg><tg><t Contlex="PROP_KONDII">Serbii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Турция</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_MUA">Turkanmua</t><t Contlex="PROP_KONDII">Turtsii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Украина</l></lg><mg><tg><t Contlex="PROP_MUARJU">Ukrainu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Франция</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_KONDII">Frantsii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Христос</l></lg><mg><tg><t Contlex="PROP_AKKU">Hristossu</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Чехия</l></lg><mg><tg><t Contlex="PROP_KONDII">Čeehii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Швеция</l></lg><mg><tg><t Contlex="PROP_PAPPI">Ruočči</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Эстония</l></lg><mg><tg xml:lang="olo"><t Contlex="PROP_KONDII">Estounii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Япония</l></lg><mg><tg><t Contlex="PROP_KONDII">Japounii</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Китай</l></lg><mg><tg><t>Kitai</t></tg></mg></e>
-<e><lg><l pos="N" type="Prop">Господь</l></lg><mg><tg><t>Hospodi</t></tg></mg></e>
-
-
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="rus">
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Австралия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Avstrualii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Австрия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Avstrii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Азербайджан</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Azerbaidžuanu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Азия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Aazii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Албания</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Albuanii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Америка</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>Amierikku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Англия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Anglii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Аргентина</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Argentiinu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Армения</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Armienii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Афганистан</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Afganistuanu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Африка</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>Afriekku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Белоруссия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Beloruussii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Бельгия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_STIPENDII">Belʼgii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Библия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_STIPENDII">Biblii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Бог</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_TAIGIN">Jumal</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Болгария</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Bolguarii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Бразилия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Braziilii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Венгрия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_STIPENDII">Vengrii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Всевышний</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_TAIGIN">Yli Jumal</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Германия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Germuanii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Голландия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Gollandii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Господь</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>Hospodi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Греция</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUA">Griekanmua</t>
+        <t Contlex="PROP_KONDII">Gretsii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Грузия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Gruuzii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Дед-мороз</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KARJALAINE">Pakkaine</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Евангелие</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">jevangelii</t>
+      </tg>
+      <xg>
+        <x>Евангелие от Матвея</x>
+        <xt>Jevangelii Matfein mugah</xt>
+      </xg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Европа</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>Jevrouppu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Египет</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Jegiptu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Индия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Indii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Испания</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Ispuanii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Италия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Itualii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Канада</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Kanuadu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Китай</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>Kitai</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Литва</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Litvu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Масленица</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KOIVU">Pyhälasku</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Норвегия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Norviegii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Пасха</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_PÄIVY">Äijypäivy</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Покров</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Pokrovu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Польша</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Polʼšu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Рождество</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Rastavu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Румыния</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Rumiinii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Сербия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Serbii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Турция</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUA">Turkanmua</t>
+        <t Contlex="PROP_KONDII">Turtsii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Украина</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_MUARJU">Ukrainu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Финляндия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t>Suomi</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Франция</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Frantsii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Христос</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_AKKU">Hristossu</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Чехия</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Čeehii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Швеция</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_PAPPI">Ruočči</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Эстония</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Estounii</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N" type="Prop">Япония</l>
+    </lg>
+    <mg>
+      <tg xml:lang="olo">
+        <t Contlex="PROP_KONDII">Japounii</t>
+      </tg>
+    </mg>
+  </e>
 </r>
