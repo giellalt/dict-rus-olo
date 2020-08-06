@@ -11,23 +11,23 @@
       </tg>
       <xg>
         <x>приду, если успею</x>
-        <xt>tulen, gu (ku) ehtinen</xt>
+        <xt xml:lang="olo">tulen, gu (ku) ehtinen</xt>
       </xg>
       <xg>
         <x>сделаю, если смогу</x>
-        <xt>luajin, gu (ku) voinnen</xt>
+        <xt xml:lang="olo">luajin, gu (ku) voinnen</xt>
       </xg>
       <xg>
         <x>если у нас лето, то у них зима</x>
-        <xt>meil gu (ku) ollou kezä, heil on talvi</xt>
+        <xt xml:lang="olo">meil gu (ku) ollou kezä, heil on talvi</xt>
       </xg>
       <xg>
         <x>если он не хочет, то не заставляй</x>
-        <xt>gu (ku) häi ei tahtone, älä käske</xt>
+        <xt xml:lang="olo">gu (ku) häi ei tahtone, älä käske</xt>
       </xg>
       <xg>
         <x>если бы был жив отец!</x>
-        <xt>gu (ku) olis elos tuatto!</xt>
+        <xt xml:lang="olo">gu (ku) olis elos tuatto!</xt>
       </xg>
     </mg>
   </e>
@@ -43,11 +43,11 @@
       </tg>
       <xg>
         <x>когда прочитаю книгу, отдам тебе</x>
-        <xt>konzu (ku) luven kniigan, sit annan sinule</xt>
+        <xt xml:lang="olo">konzu (ku) luven kniigan, sit annan sinule</xt>
       </xg>
       <xg>
         <x>когда обед будет готов, позовите меня</x>
-        <xt>konzu (ku) murgin roih valmis, kučukkua minuu</xt>
+        <xt xml:lang="olo">konzu (ku) murgin roih valmis, kučukkua minuu</xt>
       </xg>
     </mg>
   </e>
@@ -62,7 +62,7 @@
       </tg>
       <xg>
         <x>ты молчи, пока все не соберутся</x>
-        <xt>sinä ole vaikkani, kuni kaikin kerävytäh</xt>
+        <xt xml:lang="olo">sinä ole vaikkani, kuni kaikin kerävytäh</xt>
       </xg>
     </mg>
     <mg>
@@ -72,7 +72,7 @@
       </tg>
       <xg>
         <x>будь дома, пока я сбегаю в магазин</x>
-        <xt>ole kois, kuni minä juokseldan laukkah</xt>
+        <xt xml:lang="olo">ole kois, kuni minä juokseldan laukkah</xt>
       </xg>
     </mg>
     <mg>
@@ -82,11 +82,11 @@
       </tg>
       <xg>
         <x>я пока сам не знаю</x>
-        <xt>minä vie ičen en tiijä</xt>
+        <xt xml:lang="olo">minä vie ičen en tiijä</xt>
       </xg>
       <xg>
         <x>побудь пока здесь</x>
-        <xt>olettele vie täs</xt>
+        <xt xml:lang="olo">olettele vie täs</xt>
       </xg>
     </mg>
   </e>
@@ -102,7 +102,7 @@
       </tg>
       <xg>
         <x>он много работает, причём успевает посещать и театры</x>
-        <xt>häi äijän ruadua da sen ližäkse (da sidä paiči) ehtiy kävvä teatroihgi</xt>
+        <xt xml:lang="olo">häi äijän ruadua da sen ližäkse (da sidä paiči) ehtiy kävvä teatroihgi</xt>
       </xg>
     </mg>
     <mg>
@@ -112,7 +112,7 @@
       </tg>
       <xg>
         <x>причём тут я?</x>
-        <xt>midäbo dieluo sih minul on?</xt>
+        <xt xml:lang="olo">midäbo dieluo sih minul on?</xt>
       </xg>
     </mg>
   </e>
@@ -132,19 +132,19 @@
       </tg>
       <xg>
         <x>сегодня теплее, чем вчера</x>
-        <xt>tänäpäi on lämmembi migu egläi</xt>
+        <xt xml:lang="olo">tänäpäi on lämmembi migu egläi</xt>
       </xg>
       <xg>
         <x>он бегает быстрее, чем я</x>
-        <xt>häi juoksendelou teriämbi migu minä</xt>
+        <xt xml:lang="olo">häi juoksendelou teriämbi migu minä</xt>
       </xg>
       <xg>
         <x>лучше пойти пешком, чем целый день ждать машину</x>
-        <xt>migu päivy vuottua mašinua, parembi on lähtie jallai</xt>
+        <xt xml:lang="olo">migu päivy vuottua mašinua, parembi on lähtie jallai</xt>
       </xg>
       <xg>
         <x>чем больше, тем лучше</x>
-        <xt>midä enämbi, sidä parembi</xt>
+        <xt xml:lang="olo">midä enämbi, sidä parembi</xt>
       </xg>
     </mg>
   </e>
@@ -158,27 +158,27 @@
       </tg>
       <xg>
         <x>хорошо, что ты пришёл</x>
-        <xt>hyvä, ku sinä tulit</xt>
+        <xt xml:lang="olo">hyvä, ku sinä tulit</xt>
       </xg>
       <xg>
         <x>нехорошо, что опоздал</x>
-        <xt> ei ole hyvä, ku myöhästyit;</xt>
+        <xt xml:lang="olo"> ei ole hyvä, ku myöhästyit;</xt>
       </xg>
       <xg>
         <x>он так захлопнул дверь, что стёкла зазвенели</x>
-        <xt>häi muga pačkai uksen, ga kai stʼoklat ruvettih helizemäh</xt>
+        <xt xml:lang="olo">häi muga pačkai uksen, ga kai stʼoklat ruvettih helizemäh</xt>
       </xg>
       <xg>
         <x> он сказал так быстро, что никто не понял</x>
-        <xt>häi sanoi muga terväh, što niken ei ellendännyh</xt>
+        <xt xml:lang="olo">häi sanoi muga terväh, što niken ei ellendännyh</xt>
       </xg>
       <xg>
         <x> он сказал, что не придёт</x>
-        <xt>häi sanoi, što ei tule</xt>
+        <xt xml:lang="olo">häi sanoi, što ei tule</xt>
       </xg>
       <xg>
         <x>что есть сил</x>
-        <xt>mi vai on vägie</xt>
+        <xt xml:lang="olo">mi vai on vägie</xt>
       </xg>
     </mg>
   </e>
@@ -195,19 +195,19 @@
       </tg>
       <xg>
         <x>скажи, чтоб он принёс воды</x>
-        <xt>sano, ku häi tuos vetty</xt>
+        <xt xml:lang="olo">sano, ku häi tuos vetty</xt>
       </xg>
       <xg>
         <x>я тороплюсь, чтоб успеть на работу</x>
-        <xt>minä kiirehtän, ku ehtie ruadoh</xt>
+        <xt xml:lang="olo">minä kiirehtän, ku ehtie ruadoh</xt>
       </xg>
       <xg>
         <x>зажги свет, чтоб лучше видеть</x>
-        <xt>viritä tuli, ku parembi nähtä</xt>
+        <xt xml:lang="olo">viritä tuli, ku parembi nähtä</xt>
       </xg>
       <xg>
         <x>говори громче, чтоб все слышали</x>
-        <xt>pagize kovembah, štobi (ku) kaikin kuultas</xt>
+        <xt xml:lang="olo">pagize kovembah, štobi (ku) kaikin kuultas</xt>
       </xg>
     </mg>
   </e>
@@ -224,19 +224,19 @@
       </tg>
       <xg>
         <x>скажи, чтоб он принёс воды</x>
-        <xt>sano, ku häi tuos vetty</xt>
+        <xt xml:lang="olo">sano, ku häi tuos vetty</xt>
       </xg>
       <xg>
         <x>я тороплюсь, чтоб успеть на работу</x>
-        <xt>minä kiirehtän, ku ehtie ruadoh</xt>
+        <xt xml:lang="olo">minä kiirehtän, ku ehtie ruadoh</xt>
       </xg>
       <xg>
         <x>зажги свет, чтоб лучше видеть</x>
-        <xt>viritä tuli, ku parembi nähtä</xt>
+        <xt xml:lang="olo">viritä tuli, ku parembi nähtä</xt>
       </xg>
       <xg>
         <x>говори громче, чтоб все слышали</x>
-        <xt>pagize kovembah, štobi (ku) kaikin kuultas</xt>
+        <xt xml:lang="olo">pagize kovembah, štobi (ku) kaikin kuultas</xt>
       </xg>
     </mg>
   </e>

@@ -10,7 +10,7 @@
       </tg>
       <xg>
         <x>учиться в восьмом классе</x>
-        <xt>opastuo kaheksandes kluasas</xt>
+        <xt xml:lang="olo">opastuo kaheksandes kluasas</xt>
       </xg>
     </mg>
   </e>
@@ -24,19 +24,19 @@
       </tg>
       <xg>
         <x>две пары рукавиц</x>
-        <xt>kahtet alazet</xt>
+        <xt xml:lang="olo">kahtet alazet</xt>
       </xg>
       <xg>
         <x>в классе нет двух человек</x>
-        <xt>kluasas ei ole kahtu hengie</xt>
+        <xt xml:lang="olo">kluasas ei ole kahtu hengie</xt>
       </xg>
       <xg>
         <x>в два счёта</x>
-        <xt>kerral</xt>
+        <xt xml:lang="olo">kerral</xt>
       </xg>
       <xg>
         <x>в двух шагах</x>
-        <xt>askelen peräs</xt>
+        <xt xml:lang="olo">askelen peräs</xt>
       </xg>
     </mg>
   </e>
@@ -50,7 +50,7 @@
       </tg>
       <xg>
         <x>ему больше двадцати лет</x>
-        <xt>hänele on enämbi kahtukymmendy vuottu</xt>
+        <xt xml:lang="olo">hänele on enämbi kahtukymmendy vuottu</xt>
       </xg>
     </mg>
   </e>
@@ -64,7 +64,7 @@
       </tg>
       <xg>
         <x>в двухстах метрах</x>
-        <xt>kahtensuan metrin piäs</xt>
+        <xt xml:lang="olo">kahtensuan metrin piäs</xt>
       </xg>
     </mg>
   </e>
@@ -108,7 +108,7 @@
       </tg>
       <xg>
         <x>сыну семь лет</x>
-        <xt>poijal on seiččei vuottu</xt>
+        <xt xml:lang="olo">poijal on seiččei vuottu</xt>
       </xg>
     </mg>
   </e>
@@ -122,7 +122,7 @@
       </tg>
       <xg>
         <x>деду исполнилось семьдесят лет</x>
-        <xt>diedʼoi täytti seiččeikymmen vuottu</xt>
+        <xt xml:lang="olo">diedʼoi täytti seiččeikymmen vuottu</xt>
       </xg>
     </mg>
   </e>
@@ -146,7 +146,7 @@
       </tg>
       <xg>
         <x>разделить на три</x>
-        <xt>jagua kolmekse</xt>
+        <xt xml:lang="olo">jagua kolmekse</xt>
       </xg>
     </mg>
   </e>
@@ -160,11 +160,11 @@
       </tg>
       <xg>
         <x>Карелия – страна тысяч озёр</x>
-        <xt>Karjal on tuhanzien järvien mua</xt>
+        <xt xml:lang="olo">Karjal on tuhanzien järvien mua</xt>
       </xg>
       <xg>
         <x>тысячами</x>
-        <xt>tuhanzittain</xt>
+        <xt xml:lang="olo">tuhanzittain</xt>
       </xg>
     </mg>
   </e>
@@ -178,11 +178,11 @@
       </tg>
       <xg>
         <x>четыре рубля</x>
-        <xt>nelli rublʼua</xt>
+        <xt xml:lang="olo">nelli rublʼua</xt>
       </xg>
       <xg>
         <x>четыре человека</x>
-        <xt>nelli hengie</xt>
+        <xt xml:lang="olo">nelli hengie</xt>
       </xg>
     </mg>
   </e>
@@ -196,7 +196,7 @@
       </tg>
       <xg>
         <x>шесть человек</x>
-        <xt>kuuzi hengie</xt>
+        <xt xml:lang="olo">kuuzi hengie</xt>
       </xg>
     </mg>
   </e>
@@ -230,11 +230,11 @@
       </tg>
       <xg>
         <x>в десятом классе</x>
-        <xt>kymmenendes kluasas</xt>
+        <xt xml:lang="olo">kymmenendes kluasas</xt>
       </xg>
       <xg>
         <x>десятая часть</x>
-        <xt>kymmenendes vuitti</xt>
+        <xt xml:lang="olo">kymmenendes vuitti</xt>
       </xg>
     </mg>
   </e>
@@ -248,12 +248,12 @@
       </tg>
       <xg>
         <x>пятое-десятое</x>
-        <xt>sidä da tädä (yhty da tostu)</xt>
+        <xt xml:lang="olo">sidä da tädä (yhty da tostu)</xt>
       </xg>
     </mg>
   </e>
-<e><lg><l pos="Num">восемнадцать</l></lg><mg><tg xml:lang="olo"><t>kaheksatostu (kaheksantostu, kaheksuatostu; kaheksiitostu)</t></tg><xg><x>в возрасте восемнадцати лет</x><xt>kakeksantostu vuvven igähine (igäine)</xt></xg></mg></e>
-<e><lg><l pos="Num">восемь</l></lg><mg><tg xml:lang="olo"><t>kaheksa (-an, -ua)</t></tg><xg><x>в семье было восемь детей</x><xt>perehes oli kaheksa lastu</xt></xg></mg></e>
+<e><lg><l pos="Num">восемнадцать</l></lg><mg><tg xml:lang="olo"><t>kaheksatostu (kaheksantostu, kaheksuatostu; kaheksiitostu)</t></tg><xg><x>в возрасте восемнадцати лет</x><xt xml:lang="olo">kakeksantostu vuvven igähine (igäine)</xt></xg></mg></e>
+<e><lg><l pos="Num">восемь</l></lg><mg><tg xml:lang="olo"><t>kaheksa (-an, -ua)</t></tg><xg><x>в семье было восемь детей</x><xt xml:lang="olo">perehes oli kaheksa lastu</xt></xg></mg></e>
   <e>
     <lg>
       <l pos="Num" type="Ord">шестой</l>
@@ -264,7 +264,7 @@
       </tg>
       <xg>
         <x>шестого числа</x>
-        <xt>kuvvendennu piänny</xt>
+        <xt xml:lang="olo">kuvvendennu piänny</xt>
       </xg>
     </mg>
   </e>

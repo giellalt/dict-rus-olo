@@ -52,7 +52,7 @@
       </tg>
       <xg>
         <x>ах какой красивый цветок!</x>
-        <xt>ah (voi) mittuine čoma on kukkaine!</xt>
+        <xt xml:lang="olo">ah (voi) mittuine čoma on kukkaine!</xt>
       </xg>
     </mg>
   </e>
@@ -67,7 +67,7 @@
       </tg>
       <xg>
         <x>караул! помогите!</x>
-        <xt>karavuul! autakkua!</xt>
+        <xt xml:lang="olo">karavuul! autakkua!</xt>
       </xg>
     </mg>
   </e>
